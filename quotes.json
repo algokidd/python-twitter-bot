@@ -1,0 +1,3752 @@
+[
+    {
+        "quote": "“A friend is someone who knows all about you and still loves you.”",
+        "author": "Elbert Hubbard",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“The only true wisdom is in knowing you know nothing.”",
+        "author": "Socrates",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“The Seven Social Sins are:",
+        "author": "Frederick Lewis Donaldson",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Hold fast to dreams,",
+        "author": "Langston Hughes",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Any fool can know. The point is to understand.”",
+        "author": "Albert Einstein",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“I was gratified to be able to answer promptly, and I did. I said I didn’t know.”",
+        "author": "Mark Twain",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“I did then what I knew how to do. Now that I know better, I do better.”",
+        "author": "Maya Angelou",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“No thief, however skillful, can rob one of knowledge, and that is why knowledge is the best and safest treasure to acquire.”",
+        "author": "L. Frank Baum,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“The man of knowledge must be able not only to love his enemies but also to hate his friends.”",
+        "author": "Friedrich Nietzsche",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours.”",
+        "author": "John Locke",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Great minds are always feared by lesser minds.”",
+        "author": "Dan Brown,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“I cannot teach anybody anything. I can only make them think”",
+        "author": "Socrates",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Confidence is ignorance. If you're feeling cocky, it's because there's something you don't know.”",
+        "author": "Eoin Colfer,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”",
+        "author": "Daniel J. Boorstin",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Knowing too much of your future is never a good thing.”",
+        "author": "Rick Riordan,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“For me, I am driven by two main philosophies: know more today about the world than I knew yesterday and lessen the suffering of others. You'd be surprised how far that gets you.”",
+        "author": "Neil deGrasse Tyson",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Your assumptions are your windows on the world. Scrub them off every once in a while, or the light won't come in.”",
+        "author": "Isaac Asimov",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“It is the absence of facts that frightens people: the gap you open, into which they pour their fears, fantasies, desires.”",
+        "author": "Hilary Mantel,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Write what you know. That should leave you with a lot of free time.”",
+        "author": "Howard Nemerov",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Wisdom cannot be imparted. Wisdom that a wise man attempts to impart always sounds like foolishness to someone else ... Knowledge can be communicated, but not wisdom. One can find it, live it, do wonders through it, but one cannot communicate and teach it.”",
+        "author": "Hermann Hesse,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“All knowledge hurts.”",
+        "author": "Cassandra Clare,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.”",
+        "author": "Anais Nin",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Last night I lost the world, and gained the universe.”",
+        "author": "C. JoyBell C.",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Doctor Who: You want weapons? We're in a library. Books are the best weapon in the world. This room's the greatest arsenal we could have. Arm yourself!",
+        "author": "Russell T. Davies",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“I have been and still am a seeker, but I have ceased to question stars and books; I have begun to listen to the teaching my blood whispers to me.”",
+        "author": "Hermann Hesse,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“For me, it is far better to grasp the Universe as it really is than to persist in delusion, however satisfying and reassuring.”",
+        "author": "Carl Sagan,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“I mean, you could claim that",
+        "author": "J.K. Rowling",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“If you knew what was going to happen, if you knew everything that was going to happen next—if you knew in advance the consequences of your own actions—you'd be doomed. You'd be ruined as God. You'd be a stone. You'd never eat or drink or laugh or get out of bed in the morning. You'd never love anyone, ever again. You'd never dare to.”",
+        "author": "Margaret Atwood,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Knowledge is power. Power to do evil...or power to do good. Power itself is not evil. So knowledge itself is not evil.”",
+        "author": "Veronica Roth,",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“People don't care how much you know until they know how much you care”",
+        "author": "Theodore Roosevelt",
+        "genre": "knowledge"
+    },
+    {
+        "quote": "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+        "author": "Albert Einstein",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Be the change that you wish to see in the world.”",
+        "author": "Mahatma Gandhi",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Without music, life would be a mistake.”",
+        "author": "Friedrich Nietzsche,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”",
+        "author": "Elie Wiesel",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Go to heaven for the climate and hell for the company.”",
+        "author": "Benjamin Franklin Wade",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“A day without laughter is a day wasted.”",
+        "author": "Nicolas Chamfort",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Have you ever noticed how ‘What the hell’ is always the right decision to make?”",
+        "author": "Terry Johnson,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“How wonderful it is that nobody need wait a single moment before starting to improve the world.”",
+        "author": "Anne Frank,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”",
+        "author": "Margaret Mead",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“You talk when you cease to be at peace with your thoughts.”",
+        "author": "Kahlil Gibran,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“May you live every day of your life.”",
+        "author": "Jonathan Swift",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Man is the only creature who refuses to be what he is.”",
+        "author": "Albert Camus",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“We have to dare to be ourselves, however frightening or strange that self may prove to be.”",
+        "author": "May Sarton",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“One, remember to look up at the stars and not down at your feet. Two, never give up work. Work gives you meaning and purpose and life is empty without it. Three, if you are lucky enough to find love, remember it is there and don't throw it away.”",
+        "author": "Stephen Hawking",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?”",
+        "author": "Laurence J. Peter",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“There is nothing either good or bad, but thinking makes it so.”",
+        "author": "William Shakespear,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“It is hard enough to remember my opinions, without also remembering my reasons for them!”",
+        "author": "Friedrich Nietzsche",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Never let your sense of morals prevent you from doing what is right.”",
+        "author": "Isaac Asimov,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“A human being is a part of the whole called by us universe, a part limited in time and space. He experiences himself, his thoughts and feeling as something separated from the rest, a kind of optical delusion of his consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty.”",
+        "author": "Albert Einstein",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“You do not write your life with words...You write it with actions. What you think is not important. It is only important what you",
+        "author": "Patrick Ness,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Simplicity, patience, compassion.",
+        "author": "Lao Tzu,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Trust yourself. You know more than you think you do.”",
+        "author": "Benjamin Spock",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Without deviation from the norm, progress is not possible.”",
+        "author": "Frank Zappa",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Fantasy is escapist, and that is its glory. If a soldier is imprisioned by the enemy, don't we consider it his duty to escape?. . .If we value the freedom of mind and soul, if we're partisans of liberty, then it's our plain duty to escape, and to take as many people with us as we can!”",
+        "author": "J.R.R. Tolkien",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.”",
+        "author": "Bertrand Russell",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”",
+        "author": "Dr. Seuss",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science.”",
+        "author": "Albert Einstein,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.”",
+        "author": "Elie Wiesel",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“A woman has to live her life, or live to repent not having lived it.”",
+        "author": "D.H. Lawrence,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“We are all atheists about most of the gods that humanity has ever believed in. Some of us just go one god further.”",
+        "author": "Richard Dawkins,",
+        "genre": "philosophy"
+    },
+    {
+        "quote": "“The fool doth think he is wise, but the wise man knows himself to be a fool.”",
+        "author": "William Shakespeare,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it.”",
+        "author": "Maurice Switzer,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Whenever you find yourself on the side of the majority, it is time to reform (or pause and reflect).”",
+        "author": "Mark Twain",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“When someone loves you, the way they talk about you is different. You feel safe and comfortable.”",
+        "author": "Jess C. Scott,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Knowing yourself is the beginning of all wisdom.”",
+        "author": "Aristotle",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“The only true wisdom is in knowing you know nothing.”",
+        "author": "Socrates",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.”",
+        "author": "Isaac Asimov",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Count your age by friends, not years. Count your life by smiles, not tears.”",
+        "author": "John Lennon",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Hold fast to dreams,",
+        "author": "Langston Hughes",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“In a good bookroom you feel in some mysterious way that you are absorbing the wisdom contained in all the books through your skin, without even opening them.”",
+        "author": "Mark Twain",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“May you live every day of your life.”",
+        "author": "Jonathan Swift",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“It is the mark of an educated mind to be able to entertain a thought without accepting it.”",
+        "author": "Aristotle,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Never laugh at live dragons.”",
+        "author": "J.R.R. Tolkien",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“The secret of life, though, is to fall seven times and to get up eight times.”",
+        "author": "Paulo Coelho,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Any fool can know. The point is to understand.”",
+        "author": "Albert Einstein",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“If you're reading this...",
+        "author": "Chad Sugg,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“There is neither happiness nor misery in the world; there is only the comparison of one state with another, nothing more. He who has felt the deepest grief is best able to experience supreme happiness. We must have felt what it is to die, Morrel, that we may appreciate the enjoyments of life.",
+        "author": "Alexandre Dumas",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“The best index to a person's character is how he treats people who can't do him any good, and how he treats people who can't fight back.”",
+        "author": "Abigail Van Buren",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Think before you speak. Read before you think.”",
+        "author": "Fran Lebowitz,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Never let your sense of morals prevent you from doing what is right.”",
+        "author": "Isaac Asimov,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“The unexamined life is not worth living.”",
+        "author": "Socrates",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Turn your wounds into wisdom.”",
+        "author": "Oprah Winfrey",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“The simple things are also the most extraordinary things, and only the wise can see them.”",
+        "author": "Paulo Coelho,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“There are three things all wise men fear: the sea in storm, a night with no moon, and the anger of a gentle man.”",
+        "author": "Patrick Rothfuss,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“It's a dangerous business, Frodo, going out your door. You step onto the road, and if you don't keep your feet, there's no knowing where you might be swept off to.”",
+        "author": "J.R.R. Tolkien,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Angry people are not always wise.”",
+        "author": "Jane Austen,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.”",
+        "author": "Confucious",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“You do not write your life with words...You write it with actions. What you think is not important. It is only important what you",
+        "author": "Patrick Ness,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.”",
+        "author": "Rumi",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“Let no man pull you so low as to hate him.”",
+        "author": "Martin Luther King Jr.,",
+        "genre": "wisdom"
+    },
+    {
+        "quote": "“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”",
+        "author": "Marilyn Monroe",
+        "genre": "life"
+    },
+    {
+        "quote": "“You've gotta dance like there's nobody watching,",
+        "author": "William W. Purkey",
+        "genre": "life"
+    },
+    {
+        "quote": "“You only live once, but if you do it right, once is enough.”",
+        "author": "Mae West",
+        "genre": "life"
+    },
+    {
+        "quote": "“In three words I can sum up everything I've learned about life: it goes on.”",
+        "author": "Robert Frost",
+        "genre": "life"
+    },
+    {
+        "quote": "“To live is the rarest thing in the world. Most people exist, that is all.”",
+        "author": "Oscar Wilde",
+        "genre": "life"
+    },
+    {
+        "quote": "“Insanity is doing the same thing, over and over again, but expecting different results.”",
+        "author": "Narcotics Anonymous",
+        "genre": "life"
+    },
+    {
+        "quote": "“It is better to be hated for what you are than to be loved for what you are not.”",
+        "author": "Andre Gide,",
+        "genre": "life"
+    },
+    {
+        "quote": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+        "author": "Albert Einstein",
+        "genre": "life"
+    },
+    {
+        "quote": "“It does not do to dwell on dreams and forget to live.”",
+        "author": "J.K. Rowling,",
+        "genre": "life"
+    },
+    {
+        "quote": "“Good friends, good books, and a sleepy conscience: this is the ideal life.”",
+        "author": "Mark Twain",
+        "genre": "life"
+    },
+    {
+        "quote": "“Life is what happens to us while we are making other plans.”",
+        "author": "Allen Saunders",
+        "genre": "life"
+    },
+    {
+        "quote": "“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”",
+        "author": "douglas adams,",
+        "genre": "life"
+    },
+    {
+        "quote": "“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”",
+        "author": "Marilyn Monroe",
+        "genre": "life"
+    },
+    {
+        "quote": "“Everything you can imagine is real.”",
+        "author": "Pablo Picasso",
+        "genre": "life"
+    },
+    {
+        "quote": "“Sometimes the questions are complicated and the answers are simple.”",
+        "author": "Dr. Seuss",
+        "genre": "life"
+    },
+    {
+        "quote": "“Life isn't about finding yourself. Life is about creating yourself.”",
+        "author": "George Bernard Shaw",
+        "genre": "life"
+    },
+    {
+        "quote": "“Today you are You, that is truer than true. There is no one alive who is Youer than You.”",
+        "author": "Dr. Seuss,",
+        "genre": "life"
+    },
+    {
+        "quote": "“I'm not afraid of death; I just don't want to be there when it happens.”",
+        "author": "Woody Allen",
+        "genre": "life"
+    },
+    {
+        "quote": "“Sometimes people are beautiful.",
+        "author": "Markus Zusak,",
+        "genre": "life"
+    },
+    {
+        "quote": "“Life is like riding a bicycle. To keep your balance, you must keep moving.”",
+        "author": "Albert Einstein",
+        "genre": "life"
+    },
+    {
+        "quote": "“Some infinities are bigger than other infinities.”",
+        "author": "John Green,",
+        "genre": "life"
+    },
+    {
+        "quote": "“Reality continues to ruin my life.”",
+        "author": "Bill Watterson,",
+        "genre": "life"
+    },
+    {
+        "quote": "“Things change. And friends leave. Life doesn't stop for anybody.”",
+        "author": "Stephen Chbosky,",
+        "genre": "life"
+    },
+    {
+        "quote": "“Who are you to judge the life I live?",
+        "author": "Bob Marley",
+        "genre": "life"
+    },
+    {
+        "quote": "“The only way out of the labyrinth of suffering is to forgive.”",
+        "author": "John Green,",
+        "genre": "life"
+    },
+    {
+        "quote": "“When someone loves you, the way they talk about you is different. You feel safe and comfortable.”",
+        "author": "Jess C. Scott,",
+        "genre": "life"
+    },
+    {
+        "quote": "“Dumbledore watched her fly away, and as her silvery glow faded he turned back to Snape, and his eyes were full of tears.",
+        "author": "J.K. Rowling,",
+        "genre": "life"
+    },
+    {
+        "quote": "“He has achieved success who has lived well, laughed often, and loved much;",
+        "author": "Bessie Anderson Stanley,",
+        "genre": "life"
+    },
+    {
+        "quote": "“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”",
+        "author": "Ralph Waldo Emerson",
+        "genre": "life"
+    },
+    {
+        "quote": "“We are what we pretend to be, so we must be careful about what we pretend to be.”",
+        "author": "Kurt Vonnegut,",
+        "genre": "life"
+    },
+    {
+        "quote": "“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”",
+        "author": "Marilyn Monroe",
+        "genre": "love"
+    },
+    {
+        "quote": "“You've gotta dance like there's nobody watching,",
+        "author": "William W. Purkey",
+        "genre": "love"
+    },
+    {
+        "quote": "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+        "author": "Dr. Seuss",
+        "genre": "love"
+    },
+    {
+        "quote": "“A friend is someone who knows all about you and still loves you.”",
+        "author": "Elbert Hubbard",
+        "genre": "love"
+    },
+    {
+        "quote": "“Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.”",
+        "author": "Martin Luther King Jr.,",
+        "genre": "love"
+    },
+    {
+        "quote": "“We accept the love we think we deserve.”",
+        "author": "Stephen Chbosky,",
+        "genre": "love"
+    },
+    {
+        "quote": "“It is better to be hated for what you are than to be loved for what you are not.”",
+        "author": "Andre Gide,",
+        "genre": "love"
+    },
+    {
+        "quote": "“Only once in your life, I truly believe, you find someone who can completely turn your world around. You tell them things that you’ve never shared with another soul and they absorb everything you say and actually want to hear more. You share hopes for the future, dreams that will never come true, goals that were never achieved and the many disappointments life has thrown at you. When something wonderful happens, you can’t wait to tell them about it, knowing they will share in your excitement. They are not embarrassed to cry with you when you are hurting or laugh with you when you make a fool of yourself. Never do they hurt your feelings or make you feel like you are not good enough, but rather they build you up and show you the things about yourself that make you special and even beautiful. There is never any pressure, jealousy or competition but only a quiet calmness when they are around. You can be yourself and not worry about what they will think of you because they love you for who you are. The things that seem insignificant to most people such as a note, song or walk become invaluable treasures kept safe in your heart to cherish forever. Memories of your childhood come back and are so clear and vivid it’s like being young again. Colours seem brighter and more brilliant. Laughter seems part of daily life where before it was infrequent or didn’t exist at all. A phone call or two during the day helps to get you through a long day’s work and always brings a smile to your face. In their presence, there’s no need for continuous conversation, but you find you’re quite content in just having them nearby. Things that never interested you before become fascinating because you know they are important to this person who is so special to you. You think of this person on every occasion and in everything you do. Simple things bring them to mind like a pale blue sky, gentle wind or even a storm cloud on the horizon. You open your heart knowing that there’s a chance it may be broken one day and in opening your heart, you experience a love and joy that you never dreamed possible. You find that being vulnerable is the only way to allow your heart to feel true pleasure that’s so real it scares you. You find strength in knowing you have a true friend and possibly a soul mate who will remain loyal to the end. Life seems completely different, exciting and worthwhile. Your only hope and security is in knowing that they are a part of your life.”",
+        "author": "Bob Marley",
+        "genre": "love"
+    },
+    {
+        "quote": "“As he read, I fell in love the way you fall asleep: slowly, and then all at once.”",
+        "author": "John Green,",
+        "genre": "love"
+    },
+    {
+        "quote": "“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”",
+        "author": "Friedrich Nietzsche",
+        "genre": "love"
+    },
+    {
+        "quote": "“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”",
+        "author": "Elie Wiesel",
+        "genre": "love"
+    },
+    {
+        "quote": "“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”",
+        "author": "Pablo Neruda,",
+        "genre": "love"
+    },
+    {
+        "quote": "“Love all, trust a few, do wrong to none.”",
+        "author": "William Shakespeare,",
+        "genre": "love"
+    },
+    {
+        "quote": "“Have you ever been in love? Horrible isn't it? It makes you so vulnerable. It opens your chest and it opens up your heart and it means that someone can get inside you and mess you up.”",
+        "author": "Neil Gaiman,",
+        "genre": "love"
+    },
+    {
+        "quote": "“Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.”",
+        "author": "Lao Tzu",
+        "genre": "love"
+    },
+    {
+        "quote": "“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”",
+        "author": "Marilyn Monroe",
+        "genre": "love"
+    },
+    {
+        "quote": "“There is never a time or place for true love. It happens accidentally, in a heartbeat, in a single flashing, throbbing moment.”",
+        "author": "Sarah Dessen,",
+        "genre": "love"
+    },
+    {
+        "quote": "“Love is that condition in which the happiness of another person is essential to your own.”",
+        "author": "Robert A. Heinlein,",
+        "genre": "love"
+    },
+    {
+        "quote": "“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”",
+        "author": "Bob Marley",
+        "genre": "love"
+    },
+    {
+        "quote": "“You love me. Real or not real?\"",
+        "author": "Suzanne Collins,",
+        "genre": "love"
+    },
+    {
+        "quote": "“I'm in love with you,\" he said quietly.",
+        "author": "John Green,",
+        "genre": "love"
+    },
+    {
+        "quote": "“I am nothing special, of this I am sure. I am a common man with common thoughts and I've led a common life. There are no monuments dedicated to me and my name will soon be forgotten, but I've loved another with all my heart and soul, and to me, this has always been enough..”",
+        "author": "Nicholas Sparks,",
+        "genre": "love"
+    },
+    {
+        "quote": "“Love looks not with the eyes, but with the mind,",
+        "author": "William Shakespeare,",
+        "genre": "love"
+    },
+    {
+        "quote": "“Love is like the wind, you can't see it but you can feel it.”",
+        "author": "Nicholas Sparks,",
+        "genre": "love"
+    },
+    {
+        "quote": "“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”",
+        "author": "Jane Austen,",
+        "genre": "love"
+    },
+    {
+        "quote": "“People think a soul mate is your perfect fit, and that's what everyone wants. But a true soul mate is a mirror, the person who shows you everything that is holding you back, the person who brings you to your own attention so you can change your life.",
+        "author": "Elizabeth Gilbert,",
+        "genre": "love"
+    },
+    {
+        "quote": "“You don't love someone because they're perfect, you love them in spite of the fact that they're not.”",
+        "author": "Jodi Picoult,",
+        "genre": "love"
+    },
+    {
+        "quote": "“Love never dies a natural death. It dies because we don't know how to replenish its source. It dies of blindness and errors and betrayals. It dies of illness and wounds; it dies of weariness, of witherings, of tarnishings.”",
+        "author": "Anais Nin",
+        "genre": "love"
+    },
+    {
+        "quote": "“If you can make a woman laugh, you can make her do anything.”",
+        "author": "Marilyn Monroe",
+        "genre": "love"
+    },
+    {
+        "quote": "“We’re all a little weird. And life is a little weird. And when we find someone whose weirdness is compatible with ours, we join up with them and fall into mutually satisfying weirdness—and call it love—true love.”",
+        "author": "Robert Fulghum,",
+        "genre": "love"
+    },
+    {
+        "quote": "“Be yourself; everyone else is already taken.”",
+        "author": "Oscar Wilde",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“You've gotta dance like there's nobody watching,",
+        "author": "William W. Purkey",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Be the change that you wish to see in the world.”",
+        "author": "Mahatma Gandhi",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Live as if you were to die tomorrow. Learn as if you were to live forever.”",
+        "author": "Mahatma Gandhi",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.”",
+        "author": "Martin Luther King Jr.,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“We accept the love we think we deserve.”",
+        "author": "Stephen Chbosky,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Without music, life would be a mistake.”",
+        "author": "Friedrich Nietzsche,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
+        "author": "Marilyn Monroe",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+        "author": "Albert Einstein",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“We are all in the gutter, but some of us are looking at the stars.”",
+        "author": "Oscar Wilde,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.”",
+        "author": "Neil Gaiman,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.”",
+        "author": "Bill Keane",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“I have not failed. I've just found 10,000 ways that won't work.”",
+        "author": "Thomas A. Edison",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”",
+        "author": "Elie Wiesel",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.”",
+        "author": "Albert Einstein",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go...”",
+        "author": "Dr. Seuss,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“It is never too late to be what you might have been.”",
+        "author": "George Eliot",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”",
+        "author": "Marilyn Monroe",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“There is no greater agony than bearing an untold story inside you.”",
+        "author": "Maya Angelou,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Everything you can imagine is real.”",
+        "author": "Pablo Picasso",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“You can never get a cup of tea large enough or a book long enough to suit me.”",
+        "author": "C.S. Lewis",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Life isn't about finding yourself. Life is about creating yourself.”",
+        "author": "George Bernard Shaw",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“To the well-organized mind, death is but the next great adventure.”",
+        "author": "J.K. Rowling,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Do what you can, with what you have, where you are.”",
+        "author": "Theodore Roosevelt",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Success is not final, failure is not fatal: it is the courage to continue that counts.”",
+        "author": "Winston S. Churchill",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”",
+        "author": "Helen Keller",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Listen to the never haves, then listen close to me... Anything can happen, child. Anything can be.”",
+        "author": "Shel Silverstein",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“So, this is my life. And I want you to know that I am both happy and sad and I'm still trying to figure out how that could be.”",
+        "author": "Stephen Chbosky,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“And, when you want something, all the universe conspires in helping you to achieve it.”",
+        "author": "Paulo Coelho,",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”",
+        "author": "John Lennon",
+        "genre": "inspirational"
+    },
+    {
+        "quote": "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+        "author": "Albert Einstein",
+        "genre": "humor"
+    },
+    {
+        "quote": "“So many books, so little time.”",
+        "author": "Frank Zappa",
+        "genre": "humor"
+    },
+    {
+        "quote": "“You only live once, but if you do it right, once is enough.”",
+        "author": "Mae West",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Insanity is doing the same thing, over and over again, but expecting different results.”",
+        "author": "Narcotics Anonymous",
+        "genre": "humor"
+    },
+    {
+        "quote": "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
+        "author": "Jane Austen,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read.”",
+        "author": "Groucho Marx,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“A day without sunshine is like, you know, night.”",
+        "author": "Steve Martin",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Never put off till tomorrow what may be done day after tomorrow just as well.”",
+        "author": "Mark Twain",
+        "genre": "humor"
+    },
+    {
+        "quote": "“I love deadlines. I love the whooshing noise they make as they go by.”",
+        "author": "Douglas Adams,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”",
+        "author": "Garrison Keillor",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Women and cats will do as they please, and men and dogs should relax and get used to the idea.”",
+        "author": "Robert A. Heinlein",
+        "genre": "humor"
+    },
+    {
+        "quote": "“All you need is love. But a little chocolate now and then doesn't hurt.”",
+        "author": "Charles M. Schulz",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”",
+        "author": "Jim Henson",
+        "genre": "humor"
+    },
+    {
+        "quote": "“I'm not afraid of death; I just don't want to be there when it happens.”",
+        "author": "Woody Allen",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Whenever I feel the need to exercise, I lie down until it goes away.”",
+        "author": "Paul   Terry",
+        "genre": "humor"
+    },
+    {
+        "quote": "“I find television very educating. Every time somebody turns on the set, I go into the other room and read a book.”",
+        "author": "Groucho Marx",
+        "genre": "humor"
+    },
+    {
+        "quote": "“The story so far:",
+        "author": "Douglas Adams,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Saying 'I notice you're a nerd' is like saying, 'Hey, I notice that you'd rather be intelligent than be stupid, that you'd rather be thoughtful than be vapid, that you believe that there are things that matter more than the arrest record of Lindsay Lohan. Why is that?' In fact, it seems to me that most contemporary insults are pretty lame. Even 'lame' is kind of lame. Saying 'You're lame' is like saying 'You walk with a limp.' Yeah, whatever, so does 50 Cent, and he's done all right for himself.”",
+        "author": "John Green",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Some people never go crazy. What truly horrible lives they must lead.”",
+        "author": "Charles Bukowski",
+        "genre": "humor"
+    },
+    {
+        "quote": "“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”",
+        "author": "Terry Pratchett,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Reality continues to ruin my life.”",
+        "author": "Bill Watterson,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“The reason I talk to myself is because I’m the only one whose answers I accept.”",
+        "author": "George Carlin",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Go to heaven for the climate and hell for the company.”",
+        "author": "Benjamin Franklin Wade",
+        "genre": "humor"
+    },
+    {
+        "quote": "“I love mankind ... it's people I can't stand!!”",
+        "author": "Charles M. Schulz",
+        "genre": "humor"
+    },
+    {
+        "quote": "“I am free of all prejudice. I hate everyone equally. ”",
+        "author": "W.C. Fields",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”",
+        "author": "Suzanne Collins,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”",
+        "author": "Jane Austen,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“It’s no use going back to yesterday, because I was a different person then.”",
+        "author": "Lewis Carroll",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Be nice to nerds. You may end up working for them. We all could.”",
+        "author": "Charles J. Sykes,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“Do you remember me telling you we are practicing non-verbal spells, Potter?\"",
+        "author": "J.K. Rowling,",
+        "genre": "humor"
+    },
+    {
+        "quote": "“If we find ourselves with a desire that nothing in this world can satisfy, the most probable explanation is that we were made for another world.”",
+        "author": "C.S. Lewis",
+        "genre": "god"
+    },
+    {
+        "quote": "“All God does is watch us and kill us when we get boring. We must never, ever be boring.”",
+        "author": "Chuck Palahniuk,",
+        "genre": "god"
+    },
+    {
+        "quote": "“The Christian does not think God will love us because we are good, but that God will make us good because He loves us.”",
+        "author": "C.S. Lewis",
+        "genre": "god"
+    },
+    {
+        "quote": "“When his life was ruined, his family killed, his farm destroyed, Job knelt down on the ground and yelled up to the heavens, \"Why god? Why me?\" and the thundering voice of God answered, There's just something about you that pisses me off.”",
+        "author": "Stephen King,",
+        "genre": "god"
+    },
+    {
+        "quote": "“Prayer is not asking. It is a longing of the soul. It is daily admission of one's weakness. It is better in prayer to have a heart without words than words without a heart.”",
+        "author": "Mahatma Gandhi",
+        "genre": "god"
+    },
+    {
+        "quote": "“I think God, in creating man, somewhat overestimated his ability.”",
+        "author": "Oscar Wilde",
+        "genre": "god"
+    },
+    {
+        "quote": "“To be a Christian means to forgive the inexcusable because God has forgiven the inexcusable in you.”",
+        "author": "C.S. Lewis",
+        "genre": "god"
+    },
+    {
+        "quote": "“And now these three remain: faith, hope and love. But the greatest of these is love.”",
+        "author": "Anonymous,",
+        "genre": "god"
+    },
+    {
+        "quote": "“God has no religion.”",
+        "author": "Mahatma Gandhi",
+        "genre": "god"
+    },
+    {
+        "quote": "“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”",
+        "author": "C.S. Lewis",
+        "genre": "god"
+    },
+    {
+        "quote": "“God will not look you over for medals, degrees or diplomas but for scars.”",
+        "author": "Elbert Hubbard",
+        "genre": "god"
+    },
+    {
+        "quote": "“The most wasted of all days is one without laughter.”",
+        "author": "Nicolas Chamfort",
+        "genre": "god"
+    },
+    {
+        "quote": "“The darker the night, the brighter the stars,",
+        "author": "Apollon Maykov",
+        "genre": "god"
+    },
+    {
+        "quote": "“A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell.”",
+        "author": "C.S. Lewis,",
+        "genre": "god"
+    },
+    {
+        "quote": "“If I should ever die, God forbid, let this be my epitaph:",
+        "author": "kurt vonnegut",
+        "genre": "god"
+    },
+    {
+        "quote": "“The function of prayer is not to influence God, but rather to change the nature of the one who prays.”",
+        "author": "Soren Kierkegaard",
+        "genre": "god"
+    },
+    {
+        "quote": "“Never be afraid to trust an unknown future to a known God.”",
+        "author": "Corrie ten Boom",
+        "genre": "god"
+    },
+    {
+        "quote": "“I am trying here to prevent anyone saying the really foolish thing that people often say about Him: I’m ready to accept Jesus as a great moral teacher, but I don’t accept his claim to be God. That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic — on the level with the man who says he is a poached egg — or else he would be the Devil of Hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronizing nonsense about his being a great human teacher. He has not left that open to us. He did not intend to.”",
+        "author": "C.S. Lewis,",
+        "genre": "god"
+    },
+    {
+        "quote": "“Pain insists upon being attended to. God whispers to us in our pleasures, speaks in our consciences, but shouts in our pains. It is his megaphone to rouse a deaf world.”",
+        "author": "C.S. Lewis",
+        "genre": "god"
+    },
+    {
+        "quote": "“If you want to know what God thinks of money, just look at the people he gave it to.”",
+        "author": "Dorothy Parker",
+        "genre": "god"
+    },
+    {
+        "quote": "“Owners of dogs will have noticed that, if you provide them with food and water and shelter and affection, they will think you are god. Whereas owners of cats are compelled to realize that, if you provide them with food and water and shelter and affection, they draw the conclusion that",
+        "author": "Christopher Hitchens,",
+        "genre": "god"
+    },
+    {
+        "quote": "“Sometimes the Bible in the hand of one man is worse than a whisky bottle in the hand of (another)... There are just some kind of men who - who're so busy worrying about the next world they've never learned to live in this one, and you can look down the street and see the results.”",
+        "author": "Harper Lee,",
+        "genre": "god"
+    },
+    {
+        "quote": "“Let the first act of every morning be to make the following resolve for the day:",
+        "author": "Mahatma Gandhi",
+        "genre": "god"
+    },
+    {
+        "quote": "“I have faith that God will show you the answer. But you have to understand that sometimes it takes a while to be able to recognize what God wants you to do. That's how it often is. God's voice is usually nothing more than a whisper, and you have to listen very carefully to hear it. But other times, in those rarest of moments, the answer is obvious and rings as loud as a church bell.”",
+        "author": "Nicholas Sparks,",
+        "genre": "god"
+    },
+    {
+        "quote": "“He died not for men, but for each man. If each man had been the only man made, He would have done no less.”",
+        "author": "C.S. Lewis",
+        "genre": "god"
+    },
+    {
+        "quote": "“I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong.”",
+        "author": "John Lennon",
+        "genre": "god"
+    },
+    {
+        "quote": "“God does not play dice with the universe; He plays an ineffable game of His own devising, which might be compared, from the perspective of any of the other players [i.e. everybody], to being involved in an obscure and complex variant of poker in a pitch-dark room, with blank cards, for infinite stakes, with a Dealer who won't tell you the rules, and who",
+        "author": "Terry Pratchett,",
+        "genre": "god"
+    },
+    {
+        "quote": "“I sought to hear the voice of God and climbed the topmost steeple, but God declared: \"Go down again - I dwell among the people.”",
+        "author": "John Henry Newman",
+        "genre": "god"
+    },
+    {
+        "quote": "“Parents are like God because you wanna know they're out there, and you want them to think well of you, but you really only call when you need something.”",
+        "author": "Chuck Palahniuk,",
+        "genre": "god"
+    },
+    {
+        "quote": "“I talk to God but the sky is empty.”",
+        "author": "Sylvia Plath",
+        "genre": "god"
+    },
+    {
+        "quote": "“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”",
+        "author": "Marilyn Monroe",
+        "genre": "truth"
+    },
+    {
+        "quote": "“If you tell the truth, you don't have to remember anything.”",
+        "author": "Mark Twain",
+        "genre": "truth"
+    },
+    {
+        "quote": "“The reason I talk to myself is because I’m the only one whose answers I accept.”",
+        "author": "George Carlin",
+        "genre": "truth"
+    },
+    {
+        "quote": "“When someone loves you, the way they talk about you is different. You feel safe and comfortable.”",
+        "author": "Jess C. Scott,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“The truth is rarely pure and never simple.”",
+        "author": "Oscar Wilde,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“The truth.\" Dumbledore sighed. \"It is a beautiful and terrible thing, and should therefore be treated with great caution.”",
+        "author": "J.K. Rowling,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“A lie can travel half way around the world while the truth is putting on its shoes.”",
+        "author": "Mark Twain",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Never tell the truth to people who are not worthy of it.”",
+        "author": "Mark Twain",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Perhaps one did not want to be loved so much as to be understood.”",
+        "author": "George Orwell,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“The truth will set you free, but first it will piss you off.”",
+        "author": "Joe Klaas,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always.”",
+        "author": "Mahatma Gandhi",
+        "genre": "truth"
+    },
+    {
+        "quote": "“I am not pretty. I am not beautiful. I am as radiant as the sun.”",
+        "author": "Suzanne Collins,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Facts do not cease to exist because they are ignored.”",
+        "author": "Aldous Huxley,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Above all, don't lie to yourself. The man who lies to himself and listens to his own lie comes to a point that he cannot distinguish the truth within him, or around him, and so loses all respect for himself and for others. And having no respect he ceases to love.”",
+        "author": "Fyodor Dostoevsky,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“I believe in everything until it's disproved. So I believe in fairies, the myths, dragons. It all exists, even if it's in your mind. Who's to say that dreams and nightmares aren't as real as the here and now?”",
+        "author": "John Lennon",
+        "genre": "truth"
+    },
+    {
+        "quote": "“In a time of deceit telling the truth is a revolutionary act.”",
+        "author": "George Orwell",
+        "genre": "truth"
+    },
+    {
+        "quote": "“A thing is not necessarily true because a man dies for it.”",
+        "author": "Oscar Wilde",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Here's all you have to know about men and women: women are crazy, men are stupid. And the main reason women are crazy is that men are stupid.”",
+        "author": "George Carlin,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Books are mirrors: you only see in them what you already have inside you.”",
+        "author": "Carlos Ruiz Zafón,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Be mindful. Be grateful. Be positive. Be true. Be kind.”",
+        "author": "Roy T. Bennett,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“The unexamined life is not worth living.”",
+        "author": "Socrates",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.”",
+        "author": "Oscar Wilde",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Men occasionally stumble over the truth, but most of them pick themselves up and hurry off as if nothing had happened.”",
+        "author": "Winston S. Churchill",
+        "genre": "truth"
+    },
+    {
+        "quote": "“I lie to myself all the time. But I never believe me.”",
+        "author": "S.E. Hinton,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed. If people all over the world...would do this, it would change the earth.”",
+        "author": "William Faulkner",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Truth is stranger than fiction, but it is because Fiction is obliged to stick to possibilities; Truth isn't.”",
+        "author": "Mark Twain,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“The truth does not change according to our ability to stomach it.”",
+        "author": "Flannery O'Connor",
+        "genre": "truth"
+    },
+    {
+        "quote": "“The truth is, unless you let go, unless you forgive yourself, unless you forgive the situation, unless you realize that the situation is over, you cannot move forward.”",
+        "author": "Steve Maraboli,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“Rather than love, than money, than fame, give me truth.”",
+        "author": "Henry David Thoreau,",
+        "genre": "truth"
+    },
+    {
+        "quote": "“The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy.”",
+        "author": "Kalu Ndukwe Kalu",
+        "genre": "truth"
+    },
+    {
+        "quote": "“There is no pretending,\" Jace said with absolute clarity. \"I love you, and I will love you until I die, and if there is life after that, I'll love you then.”",
+        "author": "Cassandra Clare,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“He's like a drug for you, Bella.”",
+        "author": "Stephenie Meyer,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“When someone loves you, the way they talk about you is different. You feel safe and comfortable.”",
+        "author": "Jess C. Scott,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“I no longer believed in the idea of soul mates, or love at first sight. But I was beginning to believe that a very few times in your life, if you were lucky, you might meet someone who was exactly right for you. Not because he was perfect, or because you were, but because your combined flaws were arranged in a way that allowed two separate beings to hinge together.”",
+        "author": "Lisa Kleypas,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“You can't force love, I realized. It's there or it isn't. If it's not there, you've got to be able to admit it. If it is there, you've got to do whatever it takes to protect the ones you love.”",
+        "author": "Richelle Mead,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“Some women choose to follow men, and some women choose to follow their dreams. If you're wondering which way to go, remember that your career will never wake up and tell you that it doesn't love you anymore.”",
+        "author": "Lady Gaga",
+        "genre": "romance"
+    },
+    {
+        "quote": "“The best love is the kind that awakens the soul and makes us reach for more, that plants a fire in our hearts and brings peace to our minds. And that's what you've given me. That's what I'd hoped to give you forever”",
+        "author": "Nicholas Sparks",
+        "genre": "romance"
+    },
+    {
+        "quote": "“And I'm suppose to sit by while you date boys and fall in love with someone else, get married...?\" His voice tightened. \"And meanwhile, I'll die a little bit more every day, watching.”",
+        "author": "Cassandra Clare,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“I heard what you said. I’m not the silly romantic you think. I don’t want the heavens or the shooting stars. I don’t want gemstones or gold. I have those things already. I want…a steady hand. A kind soul. I want to fall asleep, and wake, knowing my heart is safe. I want to love, and be loved.”",
+        "author": "Shana Abe",
+        "genre": "romance"
+    },
+    {
+        "quote": "“I have a history of making decisions very quickly about men. I have always fallen in love fast and without measuring risks. I have a tendency not only to see the best in everyone, but to assume that everyone is emotionally capable of reaching his highest potential. I have fallen in love more times than I care to count with the highest potential of a man, rather than with the man himself, and I have hung on to the relationship for a long time (sometimes far too long) waiting for the man to ascend to his own greatness. Many times in romance I have been a victim of my own optimism.”",
+        "author": "Elizabeth Gilbert,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“They didn’t agree on much. In fact, they didn’t agree on anything. They fought all the time and challenged each other ever day. But despite their differences, they had one important thing in common. They were crazy about each other.”",
+        "author": "Nicholas Sparks,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“The very essence of romance is uncertainty.”",
+        "author": "Oscar Wilde,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“I cannot fix on the hour, or the spot, or the look or the words, which laid the foundation. It is too long ago. I was in the middle before I knew that I had begun.”",
+        "author": "Jane Austen,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were.”",
+        "author": "Kahlil Gibran",
+        "genre": "romance"
+    },
+    {
+        "quote": "“If he’s not calling you, it’s because you are not on his mind. If he creates expectations for you, and then doesn’t follow through on little things, he will do same for big things. Be aware of this and realize that he’s okay with disappointing you. Don’t be with someone who doesn’t do what they say they’re going to do. If he’s choosing not to make a simple effort that would put you at ease and bring harmony to a recurring fight, then he doesn’t respect your feelings and needs. “Busy” is another word for “asshole.” “Asshole” is another word for the guy you’re dating. You deserve a fcking phone call.”",
+        "author": "Greg Behrendt",
+        "genre": "romance"
+    },
+    {
+        "quote": "“If music be the food of love, play on,",
+        "author": "William Shakespeare,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“I can feel Peeta press his forehead into my temple and he asks, 'So now that you've got me, what are you going to do with me?' I turn into him. 'Put you somewhere you can't get hurt.”",
+        "author": "Suzanne Collins,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“When love is not madness it is not love.”",
+        "author": "Pedro Calderon de la Barca",
+        "genre": "romance"
+    },
+    {
+        "quote": "“Only a true best friend can protect you from your immortal enemies.”",
+        "author": "Richelle Mead,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“True love is rare, and it's the only thing that gives life real meaning.”",
+        "author": "Nicholas Sparks,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“I was smiling yesterday,I am smiling today and I will smile tomorrow.Simply because life is too short to cry for anything.”",
+        "author": "Santosh Kalwar,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“There was a clatter as the basilisk fangs cascaded out of Hermione's arms. Running at Ron, she flung them around his neck and kissed him full on the mouth. Ron threw away the fangs and broomstick he was holding and responded with such enthusiasm that he lifted Hermione off her feet.",
+        "author": "J.K. Rowling,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“Never close your lips to those whom you have already opened your heart.”",
+        "author": "Charles Dickens",
+        "genre": "romance"
+    },
+    {
+        "quote": "“It isn't possible to love and part. You will wish that it was. You can transmute love, ignore it, muddle it, but you can never pull it out of you. I know by experience that the poets are right: love is eternal.”",
+        "author": "E.M. Forster,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“I can listen no longer in silence. I must speak to you by such means as are within my reach. You pierce my soul. I am half agony, half hope. Tell me not that I am too late, that such precious feelings are gone for ever. I offer myself to you again with a heart even more your own than when you almost broke it, eight years and a half ago. Dare not say that man forgets sooner than woman, that his love has an earlier death. I have loved none but you. Unjust I may have been, weak and resentful I have been, but never inconstant. You alone have brought me to Bath. For you alone, I think and plan. Have you not seen this? Can you fail to have understood my wishes? I had not waited even these ten days, could I have read your feelings, as I think you must have penetrated mine. I can hardly write. I am every instant hearing something which overpowers me. You sink your voice, but I can distinguish the tones of that voice when they would be lost on others. Too good, too excellent creature! You do us justice, indeed. You do believe that there is true attachment and constancy among men. Believe it to be most fervent, most undeviating, in F. W.",
+        "author": "Jane Austen,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“The heart is an arrow. It demands aim to land true.”",
+        "author": "Leigh Bardugo,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“Say 'provoking' again. Your mouth looks provocative when you do.”",
+        "author": "Becca Fitzpatrick,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“You know what charm is: a way of getting the answer yes without having asked any clear question.”",
+        "author": "Albert Camus,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“You here to finish me off, Sweetheart?”",
+        "author": "Suzanne Collins,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“Every great love starts with a great story...”",
+        "author": "Nicholas Sparks,",
+        "genre": "romance"
+    },
+    {
+        "quote": "“To the well-organized mind, death is but the next great adventure.”",
+        "author": "J.K. Rowling,",
+        "genre": "death"
+    },
+    {
+        "quote": "“I'm not afraid of death; I just don't want to be there when it happens.”",
+        "author": "Woody Allen",
+        "genre": "death"
+    },
+    {
+        "quote": "“Love never dies a natural death. It dies because we don't know how to replenish its source. It dies of blindness and errors and betrayals. It dies of illness and wounds; it dies of weariness, of witherings, of tarnishings.”",
+        "author": "Anais Nin",
+        "genre": "death"
+    },
+    {
+        "quote": "“I wish it need not have happened in my time,\" said Frodo.",
+        "author": "J.R.R. Tolkien,",
+        "genre": "death"
+    },
+    {
+        "quote": "“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”",
+        "author": "Jimi Hendrix,",
+        "genre": "death"
+    },
+    {
+        "quote": "“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”",
+        "author": "Mark Twain",
+        "genre": "death"
+    },
+    {
+        "quote": "“Death ends a life, not a relationship.”",
+        "author": "Mitch Albom,",
+        "genre": "death"
+    },
+    {
+        "quote": "“Death's got an Invisibility Cloak?\" Harry interrupted again.",
+        "author": "J.K. Rowling,",
+        "genre": "death"
+    },
+    {
+        "quote": "“I DON'T CARE!\" Harry yelled at them, snatching up a lunascope and throwing it into the fireplace. \"I'VE HAD ENOUGH, I'VE SEEN ENOUGH, I WANT OUT, I WANT IT TO END, I DON'T CARE ANYMORE!\"",
+        "author": "J.K. Rowling,",
+        "genre": "death"
+    },
+    {
+        "quote": "“It is a curious thing, the death of a loved one. We all know that our time in this world is limited, and that eventually all of us will end up underneath some sheet, never to wake up. And yet it is always a surprise when it happens to someone we know. It is like walking up the stairs to your bedroom in the dark, and thinking there is one more stair than there is. Your foot falls down, through the air, and there is a sickly moment of dark surprise as you try and readjust the way you thought of things.”",
+        "author": "Lemony Snicket,",
+        "genre": "death"
+    },
+    {
+        "quote": "“A thing is not necessarily true because a man dies for it.”",
+        "author": "Oscar Wilde",
+        "genre": "death"
+    },
+    {
+        "quote": "“It is said that your life flashes before your eyes just before you die. That is true, it's called Life.”",
+        "author": "Terry Pratchett,",
+        "genre": "death"
+    },
+    {
+        "quote": "“I don't want to die without any scars.”",
+        "author": "Chuck Palahniuk,",
+        "genre": "death"
+    },
+    {
+        "quote": "“I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.”",
+        "author": "Mark Twain",
+        "genre": "death"
+    },
+    {
+        "quote": "“When he shall die,",
+        "author": "William Shakespeare,",
+        "genre": "death"
+    },
+    {
+        "quote": "“My dear,",
+        "author": "Kinky Friedman",
+        "genre": "death"
+    },
+    {
+        "quote": "“It kills me sometimes, how people die.”",
+        "author": "Markus Zusak,",
+        "genre": "death"
+    },
+    {
+        "quote": "“Unbeing dead isn't being alive.”",
+        "author": "E. E. Cummings",
+        "genre": "death"
+    },
+    {
+        "quote": "“Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body, but rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming \"Wow! What a Ride!”",
+        "author": "Hunter S. Thompson,",
+        "genre": "death"
+    },
+    {
+        "quote": "“Life is for the living.",
+        "author": "Langston Hughes,",
+        "genre": "death"
+    },
+    {
+        "quote": "“You'll stay with me?'",
+        "author": "J. K. Rowling,",
+        "genre": "death"
+    },
+    {
+        "quote": "“I go to seek a Great Perhaps.”",
+        "author": "François Rabelais",
+        "genre": "death"
+    },
+    {
+        "quote": "“Things we lose have a way of coming back to us in the end, if not always in the way we expect.”",
+        "author": "JK Rowling,",
+        "genre": "death"
+    },
+    {
+        "quote": "“That was the thing. You never got used to it, the idea of someone being gone. Just when you think it's reconciled, accepted, someone points it out to you, and it just hits you all over again, that shocking.”",
+        "author": "Sarah Dessen,",
+        "genre": "death"
+    },
+    {
+        "quote": "“If you gave someone your heart and they died, did they take it with them? Did you spend the rest of forever with a hole inside you that couldn't be filled?”",
+        "author": "Jodi Picoult,",
+        "genre": "death"
+    },
+    {
+        "quote": "“We are all alone, born alone, die alone, and—in spite of True Romance magazines—we shall all someday look back on our lives and see that, in spite of our company, we were alone the whole way. I do not say lonely—at least, not all the time—but essentially, and finally, alone. This is what makes your self-respect so important, and I don't see how you can respect yourself if you must look in the hearts and minds of others for your happiness.”",
+        "author": "Hunter S. Thompson,",
+        "genre": "death"
+    },
+    {
+        "quote": "“Even death has a heart.”",
+        "author": "Markus Zusak,",
+        "genre": "death"
+    },
+    {
+        "quote": "“Don't feel bad, I'm usually about to die.”",
+        "author": "Rick Riordan,",
+        "genre": "death"
+    },
+    {
+        "quote": "“To be, or not to be: that is the question:",
+        "author": "William Shakespeare,",
+        "genre": "death"
+    },
+    {
+        "quote": "“When people don't express themselves, they die one piece at a time.”",
+        "author": "Laurie Halse Anderson,",
+        "genre": "death"
+    },
+    {
+        "quote": "“",
+        "author": "Kent M. Keith,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“For every minute you are angry you lose sixty seconds of happiness.”",
+        "author": "Ralph Waldo Emerson",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Love is that condition in which the happiness of another person is essential to your own.”",
+        "author": "Robert A. Heinlein,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Folks are usually about as happy as they make their minds up to be.”",
+        "author": "Abraham Lincoln",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Time you enjoy wasting is not wasted time.”",
+        "author": "Marthe Troly-Curtin,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“It's so hard to forget pain, but it's even harder to remember sweetness. We have no scar to show for happiness. We learn so little from peace.”",
+        "author": "Chuck Palahniuk,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Happiness in intelligent people is the rarest thing I know.”",
+        "author": "Ernest Hemingway,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.”",
+        "author": "Albert Camus",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“The Seven Social Sins are:",
+        "author": "Frederick Lewis Donaldson",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Happiness is when what you think, what you say, and what you do are in harmony.”",
+        "author": "Mahatma Gandhi",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.”",
+        "author": "Henry Wadsworth Longfellow",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“There's nothing like deep breaths after laughing that hard. Nothing in the world like a sore stomach for the right reasons.”",
+        "author": "Stephen Chbosky,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Happiness is not something ready made. It comes from your own actions.”",
+        "author": "Dalai Lama XIV",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Count your age by friends, not years. Count your life by smiles, not tears.”",
+        "author": "John Lennon",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Promise Yourself",
+        "author": "Christian D. Larson,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.”",
+        "author": "J.R.R. Tolkien",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.”",
+        "author": "Roy T. Bennett,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“They say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.”",
+        "author": "Tom Bodett",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Take responsibility of your own happiness, never put it in other people’s hands.”",
+        "author": "Roy T. Bennett,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“The most important thing is to enjoy your life—to be happy—it's all that matters.”",
+        "author": "Audrey Hepburn",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Happiness is a warm puppy.”",
+        "author": "Charles M. Schulz",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“You cannot protect yourself from sadness without protecting yourself from happiness.”",
+        "author": "Jonathan Safran Foer",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.”",
+        "author": "Dale Carnegie,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Don’t waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.”",
+        "author": "Roy T. Bennett",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“No medicine cures what happiness cannot.”",
+        "author": "Gabriel García Márquez",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Even if you cannot change all the people around you, you can change the people you choose to be around. Life is too short to waste your time on people who don’t respect, appreciate, and value you. Spend your life with people who make you smile, laugh, and feel loved.”",
+        "author": "Roy T. Bennett,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Happiness is having a large, loving, caring, close-knit family in another city.”",
+        "author": "George Burns",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Let us be grateful to the people who make us happy; they are the charming gardeners who make our souls blossom.”",
+        "author": "Marcel Proust",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.”",
+        "author": "Roy T. Bennett,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“The only way to find true happiness is to risk being completely cut open.”",
+        "author": "Chuck Palahniuk,",
+        "genre": "happiness"
+    },
+    {
+        "quote": "“Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.”",
+        "author": "Bill Keane",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Listen to the mustn'ts, child. Listen to the don'ts. Listen to the shouldn'ts, the impossibles, the won'ts. Listen to the never haves, then listen close to me... Anything can happen, child. Anything can be.”",
+        "author": "Shel Silverstein",
+        "genre": "hope"
+    },
+    {
+        "quote": "“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”",
+        "author": "John Lennon",
+        "genre": "hope"
+    },
+    {
+        "quote": "“When we love, we always strive to become better than we are. When we strive to become better than we are, everything around us becomes better too.”",
+        "author": "Paulo Coelho,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Hold fast to dreams,",
+        "author": "Langston Hughes",
+        "genre": "hope"
+    },
+    {
+        "quote": "“I like the night. Without the dark, we'd never see the stars.”",
+        "author": "Stephenie Meyer,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“It's really a wonder that I haven't dropped all my ideals, because they seem so absurd and impossible to carry out. Yet I keep them, because in spite of everything, I still believe that people are really good at heart.”",
+        "author": "Anne Frank,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“I believe that imagination is stronger than knowledge. That myth is more potent than history. That dreams are more powerful than facts. That hope always triumphs over experience. That laughter is the only cure for grief. And I believe that love is stronger than death.”",
+        "author": "Robert Fulghum,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Hope is the thing with feathers",
+        "author": "Emily Dickinson",
+        "genre": "hope"
+    },
+    {
+        "quote": "“If you're reading this...",
+        "author": "Chad Sugg,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“They say a person needs just three things to be truly happy in this world: someone to love, something to do, and something to hope for.”",
+        "author": "Tom Bodett",
+        "genre": "hope"
+    },
+    {
+        "quote": "“There is neither happiness nor misery in the world; there is only the comparison of one state with another, nothing more. He who has felt the deepest grief is best able to experience supreme happiness. We must have felt what it is to die, Morrel, that we may appreciate the enjoyments of life.",
+        "author": "Alexandre Dumas",
+        "genre": "hope"
+    },
+    {
+        "quote": "“The world is indeed full of peril, and in it there are many dark places; but still there is much that is fair, and though in all lands love is now mingled with grief, it grows perhaps the greater.”",
+        "author": "J.R.R. Tolkien,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“You cannot swim for new horizons until you have courage to lose sight of the shore.”",
+        "author": "William Faulkner",
+        "genre": "hope"
+    },
+    {
+        "quote": "“And now these three remain: faith, hope and love. But the greatest of these is love.”",
+        "author": "Anonymous,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Life's under no obligation to give us what we expect.”",
+        "author": "Margaret Mitchell",
+        "genre": "hope"
+    },
+    {
+        "quote": "“But I know, somehow, that only when it is dark enough can you see the stars.”",
+        "author": "Martin Luther King, Jr.",
+        "genre": "hope"
+    },
+    {
+        "quote": "“If pain must come, may it come quickly. Because I have a life to live, and I need to live it in the best way possible. If he has to make a choice, may he make it now. Then I will either wait for him or forget him.”",
+        "author": "Paulo Coelho,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Blessed is he who expects nothing, for he shall never be disappointed.”",
+        "author": "Alexander Pope",
+        "genre": "hope"
+    },
+    {
+        "quote": "“The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy.”",
+        "author": "Kalu Ndukwe Kalu",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Hope",
+        "author": "Alfred Lord Tennyson",
+        "genre": "hope"
+    },
+    {
+        "quote": "“The very least you can do in your life is figure out what you hope for. And the most you can do is live inside that hope. Not admire it from a distance but live right in it, under its roof.”",
+        "author": "Barbara Kingsolver,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Never lose hope. Storms make people stronger and never last forever.”",
+        "author": "Roy T. Bennett,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Tears shed for another person are not a sign of weakness. They are a sign of a pure heart.”",
+        "author": "José N. Harris,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Maybe everyone can live beyond what they're capable of.”",
+        "author": "Markus Zusak,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“You can cut all the flowers but you cannot keep Spring from coming.”",
+        "author": "Pablo Neruda",
+        "genre": "hope"
+    },
+    {
+        "quote": "“It's amazing how a little tomorrow can make up for a whole lot of yesterday.”",
+        "author": "John Guare,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“Anyway, I keep picturing all these little kids playing some game in this big field of rye and all. Thousands of little kids, and nobody's around - nobody big, I mean - except me. And I'm standing on the edge of some crazy cliff. What I have to do, I have to catch everybody if they start to go over the cliff - I mean if they're running and they don't look where they're going I have to come out from somewhere and catch them. That's all I do all day. I'd just be the catcher in the rye and all. I know it's crazy, but that's the only thing I'd really like to be.”",
+        "author": "J. D. Salinger,",
+        "genre": "hope"
+    },
+    {
+        "quote": "“I have come to accept the feeling of not knowing where I am going. And I have trained myself to love it. Because it is only when we are suspended in mid-air with no landing in sight, that we force our wings to unravel and alas begin our flight. And as we fly, we still may not know where we are going to. But the miracle is in the unfolding of the wings. You may not know where you're going, but you know that so long as you spread your wings, the winds will carry you.”",
+        "author": "C. JoyBell C.",
+        "genre": "hope"
+    },
+    {
+        "quote": "“In a time of destruction, create something.”",
+        "author": "Maxine Hong Kingston",
+        "genre": "hope"
+    },
+    {
+        "quote": "“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”",
+        "author": "C.S. Lewis",
+        "genre": "faith"
+    },
+    {
+        "quote": "“All the world is made of faith, and trust, and pixie dust.”",
+        "author": "J.M. Barrie,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“I believe in everything until it's disproved. So I believe in fairies, the myths, dragons. It all exists, even if it's in your mind. Who's to say that dreams and nightmares aren't as real as the here and now?”",
+        "author": "John Lennon",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Faithless is he that says farewell when the road darkens.”",
+        "author": "J.R.R. Tolkien,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“I think if I've learned anything about friendship, it's to hang in, stay connected, fight for them, and let them fight for you. Don't walk away, don't be distracted, don't be too busy or tired, don't take them for granted. Friends are part of the glue that holds life and faith together. Powerful stuff.”",
+        "author": "Jon Katz",
+        "genre": "faith"
+    },
+    {
+        "quote": "“I have great faith in fools - self-confidence my friends will call it.”",
+        "author": "Edgar Allan Poe,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“If he’s not calling you, it’s because you are not on his mind. If he creates expectations for you, and then doesn’t follow through on little things, he will do same for big things. Be aware of this and realize that he’s okay with disappointing you. Don’t be with someone who doesn’t do what they say they’re going to do. If he’s choosing not to make a simple effort that would put you at ease and bring harmony to a recurring fight, then he doesn’t respect your feelings and needs. “Busy” is another word for “asshole.” “Asshole” is another word for the guy you’re dating. You deserve a fcking phone call.”",
+        "author": "Greg Behrendt",
+        "genre": "faith"
+    },
+    {
+        "quote": "“And now these three remain: faith, hope and love. But the greatest of these is love.”",
+        "author": "Anonymous,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“God will not look you over for medals, degrees or diplomas but for scars.”",
+        "author": "Elbert Hubbard",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Keep Going",
+        "author": "Roy T. Bennett,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“And still, after all this time,",
+        "author": "Hafiz",
+        "genre": "faith"
+    },
+    {
+        "quote": "“The function of prayer is not to influence God, but rather to change the nature of the one who prays.”",
+        "author": "Soren Kierkegaard",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Never be afraid to trust an unknown future to a known God.”",
+        "author": "Corrie ten Boom",
+        "genre": "faith"
+    },
+    {
+        "quote": "“I am trying here to prevent anyone saying the really foolish thing that people often say about Him: I’m ready to accept Jesus as a great moral teacher, but I don’t accept his claim to be God. That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic — on the level with the man who says he is a poached egg — or else he would be the Devil of Hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronizing nonsense about his being a great human teacher. He has not left that open to us. He did not intend to.”",
+        "author": "C.S. Lewis,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“I have come to accept the feeling of not knowing where I am going. And I have trained myself to love it. Because it is only when we are suspended in mid-air with no landing in sight, that we force our wings to unravel and alas begin our flight. And as we fly, we still may not know where we are going to. But the miracle is in the unfolding of the wings. You may not know where you're going, but you know that so long as you spread your wings, the winds will carry you.”",
+        "author": "C. JoyBell C.",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Do not be afraid; our fate",
+        "author": "Dante Alighieri,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Faith is not the belief that God will do what you want. It is the belief that God will do what is right.”",
+        "author": "Max Lucado,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Sometimes beautiful things come into our lives out of nowhere. We can't always understand them, but we have to trust in them. I know you want to question everything, but sometimes it pays to just have a little faith.”",
+        "author": "Lauren Kate,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“You must not lose faith in humanity. Humanity is like an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty.”",
+        "author": "Mahatma Gandhi",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Therefore, dear Sir, love your solitude and try to sing out with the pain it causes you. For those who are near you are far away... and this shows that the space around you is beginning to grow vast.... be happy about your growth, in which of course you can't take anyone with you, and be gentle with those who stay behind; be confident and calm in front of them and don't torment them with your doubts and don't frighten them with your faith or joy, which they wouldn't be able to comprehend. Seek out some simple and true feeling of what you have in common with them, which doesn't necessarily have to alter when you yourself change again and again; when you see them, love life in a form that is not your own and be indulgent toward those who are growing old, who are afraid of the aloneness that you trust.... and don't expect any understanding; but believe in a love that is being stored up for you like an inheritance, and have faith that in this love there is a strength and a blessing so large that you can travel as far as you wish without having to step outside it.”",
+        "author": "Rainer Maria Rilke,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“All I have seen teaches me to trust the Creator for all I have not seen.”",
+        "author": "Ralph Waldo Emerson",
+        "genre": "faith"
+    },
+    {
+        "quote": "“None of us knows what might happen even the next minute, yet still we go forward. Because we trust. Because we have faith.”",
+        "author": "Paulo Coelho",
+        "genre": "faith"
+    },
+    {
+        "quote": "“I'm about to make a wild, extreme and severe relationship rule: the word busy is a load of crap and is most often used by assholes. The word \"busy\" is the relationship Weapon of Mass Destruction. It seems like a good excuse, but in fact in every silo you uncover, all you're going to find is a man who didn't care enough to call. Remember men are never to busy to get what they want.”",
+        "author": "Greg Behrendt",
+        "genre": "faith"
+    },
+    {
+        "quote": "“I talk to God but the sky is empty.”",
+        "author": "Sylvia Plath",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.”",
+        "author": "Roy T. Bennett,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“No matter how old you are now. You are never too young or too old for success or going after what you want. Here’s a short list of people who accomplished great things at different ages",
+        "author": "Pablo",
+        "genre": "faith"
+    },
+    {
+        "quote": "“A star falls from the sky and into your hands. Then it seeps through your veins and swims inside your blood and becomes every part of you. And then you have to put it back into the sky. And it's the most painful thing you'll ever have to do and that you've ever done. But what's yours is yours. Whether it’s up in the sky or here in your hands. And one day, it'll fall from the sky and hit you in the head real hard and that time, you won't have to put it back in the sky again.”",
+        "author": "C. JoyBell C.",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Sometimes God allows what he hates to accomplish what he loves.”",
+        "author": "Joni Eareckson Tada,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“Death is no more than passing from one room into another. But there's a difference for me, you know. Because in that other room I shall be able to see.”",
+        "author": "Helen Keller",
+        "genre": "faith"
+    },
+    {
+        "quote": "“The reason birds can fly and we can't is simply because they have perfect faith, for to have faith is to have wings.”",
+        "author": "J.M. Barrie,",
+        "genre": "faith"
+    },
+    {
+        "quote": "“And perhaps it is the greater grief, after all, to be left on earth when another is gone.”",
+        "author": "Madeline Miller,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“The meek may inherit the earth, but at the moment it belongs to the conceited. Like me.”",
+        "author": "Cassandra Clare,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“Did you know that 'I told you so' has a brother,Jacob?\" she asked cutting me off. \"His name is 'Shut the hell up'.”",
+        "author": "Stephenie Meyer,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“All I'd ever wanted was to forget. but even when I thought I had, pieces had kept emerging, like bits of wood floating up to the surface that only hint at the shipwreck below.”",
+        "author": "Sarah Dessen,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“Quotation, n: The act of repeating erroneously the words of another.”",
+        "author": "Ambrose Bierce,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“I see all of you, Rhys. And there is not one part that I do not love with everything I am.”",
+        "author": "Sarah J. Maas,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“[A] quotation is a handy thing to have about, saving one the trouble of thinking for oneself, always a laborious business.\"",
+        "author": "A.A. Milne,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“If you have a dream, don’t just sit there. Gather courage to believe that you can succeed and leave no stone unturned to make it a reality.”",
+        "author": "Dr Roopleen",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“What a curious power words have.”",
+        "author": "Tadeusz Borowski,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“Your memory feels like home to me.",
+        "author": "Ranata Suzuki",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“…the sad part is, that I will probably end up loving you without you for much longer than I loved you when I knew you.",
+        "author": "Ranata Suzuki",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“She was a beautiful dreamer. The kind of girl, who kept her head in the clouds, loved above the stars and left regret beneath the earth she walked on.”",
+        "author": "robert m drake",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“There is an ocean of silence between us… and I am drowning in it.”",
+        "author": "Ranata Suzuki",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“You can get a thousand no's from people, and only one \"yes\" from God.”",
+        "author": "Tyler Perry",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“You don’t need scores of suitors. You need only one… if he’s the right one.”",
+        "author": "Louisa May Alcott,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“See the world as it is, not as you wish it would be”",
+        "author": "E. Lockhart,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“My feelings are too loud for words and too shy for the world.”",
+        "author": "Dejan Stojanovic",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“I hate quotations. Tell me what you know.”",
+        "author": "Ralph Waldo Emerson,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“We are made of all those who have built and broken us.”",
+        "author": "Atticus Poetry,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“To conquer frustration, one must remain intensely focused on the outcome, not the obstacles.”",
+        "author": "T.F. Hodge,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“In quoting others, we cite ourselves.”",
+        "author": "Julio Cortázar,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“People who do a job that claims to be creative have to be alone to recharge their batteries. You can’t live 24 hours a day in the spotlight and remain creative. For people like me, solitude is a victory.”",
+        "author": "Karl Lagerfeld",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“She conquered her demons and wore her scars like wings. ”",
+        "author": "Atticus Poetry,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“To hide feelings when you are near crying is the secret of dignity.”",
+        "author": "Dejan Stojanovic",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“Love only grows by sharing. You can only have more for yourself by giving it away to others.”",
+        "author": "Brian Tracy",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“If you cannot hold me in your arms, then hold my memory in high regard.",
+        "author": "Ranata Suzuki",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“A strong man cannot help a weaker unless the weaker is willing to be helped, and even then the weak man must become strong of himself; he must, by his own efforts, develop the strength which he admires in another. None but himself can alter his condition.”",
+        "author": "James Allen,",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“Quiet people have the loudest minds.”",
+        "author": "Stephen King",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“If you’re searching for a quote that puts your feelings into words – you won’t find it.",
+        "author": "Ranata Suzuki",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“When you experience loss, people say you’ll move through the 5 stages of grief….",
+        "author": "Ranata Suzuki",
+        "genre": "quotes"
+    },
+    {
+        "quote": "“I've never fooled anyone. I've let people fool themselves. They didn't bother to find out who and what I was. Instead they would invent a character for me. I wouldn't argue with them. They were obviously loving somebody I wasn't.”",
+        "author": "Marilyn Monroe",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about.”",
+        "author": "Haruki Murakami,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Instead of worrying about what you cannot control, shift your energy to what you can create.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Courage is the most important of all the virtues because without courage, you can't practice any other virtue consistently.”",
+        "author": "Maya Angelou",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Accept yourself, love yourself, and keep moving forward. If you want to fly, you have to give up what weighs you down.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Live the Life of Your Dreams: Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Don't Just",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Even if you cannot change all the people around you, you can change the people you choose to be around. Life is too short to waste your time on people who don’t respect, appreciate, and value you. Spend your life with people who make you smile, laugh, and feel loved.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“You cannot control the behavior of others, but you can always choose how you respond to it.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“The past is a place of reference, not a place of residence; the past is a place of learning, not a place of living.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Pursue what catches your heart, not what catches your eyes.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Make improvements, not excuses. Seek respect, not attention.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Start each day with a positive thought and a grateful heart.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Be grateful for what you already have while you pursue your goals.",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“We have to allow ourselves to be loved by the people who really love us, the people who really matter. Too much of the time, we are blinded by our own pursuits of people to love us, people that don't even matter, while all that time we waste and the people who do love us have to stand on the sidewalk and watch us beg in the streets! It's time to put an end to this. It's time for us to let ourselves be loved.”",
+        "author": "C. JoyBell C.",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“No matter how much suffering you went through, you never wanted to let go of those memories.”",
+        "author": "haruki murakami",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“‎Though nobody can go back and make a new beginning... Anyone can start over and make a new ending.”",
+        "author": "Chico Xavier",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Never lose hope. Storms make people stronger and never last forever.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Do not fear failure but rather fear not trying.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Always find opportunities to make someone smile, and to offer random acts of kindness in everyday life.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“The only way that we can live, is if we grow. The only way that we can grow is if we change. The only way that we can change is if we learn. The only way we can learn is if we are exposed. And the only way that we can become exposed is if we throw ourselves out into the open. Do it. Throw yourself.”",
+        "author": "C. JoyBell C.",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Only the dead have seen the end of war.”",
+        "author": "Plato",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“If there's a single lesson that life teaches us, it's that wishing doesn't make it so.”",
+        "author": "Lev Grossman,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“Sometimes you have to lose all you have to find out who you truly are.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-lessons"
+    },
+    {
+        "quote": "“I love deadlines. I love the whooshing noise they make as they go by.”",
+        "author": "Douglas Adams,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“There is no greater agony than bearing an untold story inside you.”",
+        "author": "Maya Angelou,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”",
+        "author": "J.D. Salinger,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“If there's a book that you want to read, but it hasn't been written yet, then you must write it.”",
+        "author": "Toni Morrison",
+        "genre": "writing"
+    },
+    {
+        "quote": "“There is nothing to writing. All you do is sit down at a typewriter and bleed.”",
+        "author": "Ernest Hemingway",
+        "genre": "writing"
+    },
+    {
+        "quote": "“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”",
+        "author": "Madeleine L'Engle",
+        "genre": "writing"
+    },
+    {
+        "quote": "“If you don't have time to read, you don't have the time (or the tools) to write. Simple as that.”",
+        "author": "Stephen King",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind.”",
+        "author": "Virginia Woolf,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Substitute 'damn' every time you're inclined to write 'very;' your editor will delete it and the writing will be just as it should be.”",
+        "author": "Mark Twain",
+        "genre": "writing"
+    },
+    {
+        "quote": "“We write to taste life twice, in the moment and in retrospect.”",
+        "author": "Anais Nin",
+        "genre": "writing"
+    },
+    {
+        "quote": "“One day I will find the right words, and they will be simple.”",
+        "author": "Jack Kerouac,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“We live and breathe words. .... It was books that made me feel that perhaps I was not completely alone. They could be honest with me, and I with them. Reading your words, what you wrote, how you were lonely sometimes and afraid, but always brave; the way you saw the world, its colors and textures and sounds, I felt--I felt the way you thought, hoped, felt, dreamt. I felt I was dreaming and thinking and feeling",
+        "author": "Cassandra Clare,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Fantasy is hardly an escape from reality. It's a way of understanding it.”",
+        "author": "Lloyd Alexander",
+        "genre": "writing"
+    },
+    {
+        "quote": "“And by the way, everything in life is writable about if you have the outgoing guts to do it, and the imagination to improvise. The worst enemy to creativity is self-doubt.”",
+        "author": "Sylvia Plath,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it.",
+        "author": "William Faulkner",
+        "genre": "writing"
+    },
+    {
+        "quote": "“You never have to change anything you got up in the middle of the night to write.”",
+        "author": "Saul Bellow",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Those who find ugly meanings in beautiful things are corrupt without being charming. This is a fault. Those who find beautiful meanings in beautiful things are the cultivated. For these there is hope. They are the elect to whom beautiful things mean only Beauty. There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.”",
+        "author": "Oscar Wilde,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“No tears in the writer, no tears in the reader. No surprise in the writer, no surprise in the reader.”",
+        "author": "Robert Frost",
+        "genre": "writing"
+    },
+    {
+        "quote": "“You must stay drunk on writing so reality cannot destroy you.”",
+        "author": "Ray Bradbury,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“The difference between the",
+        "author": "Mark Twain,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Fiction is the truth inside the lie.”",
+        "author": "Stephen King",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Don't tell me the moon is shining; show me the glint of light on broken glass.”",
+        "author": "Anton Chekhov",
+        "genre": "writing"
+    },
+    {
+        "quote": "“The road to hell is paved with adverbs.”",
+        "author": "Stephen King,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“The most important things are the hardest to say. They are the things you get ashamed of, because words diminish them -- words shrink things that seemed limitless when they were in your head to no more than living size when they're brought out. But it's more than that, isn't it? The most important things lie too close to wherever your secret heart is buried, like landmarks to a treasure your enemies would love to steal away. And you may make revelations that cost you dearly only to have people look at you in a funny way, not understanding what you've said at all, or why you thought it was so important that you almost cried while you were saying it. That's the worst, I think. When the secret stays locked within not for want of a teller but for want of an understanding ear.”",
+        "author": "Stephen King",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Words can be like X-rays if you use them properly – they’ll go through anything. You read and you’re pierced.”",
+        "author": "Aldous Huxley,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“The scariest moment is always just before you start.”",
+        "author": "Stephen King,",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Writing is a socially acceptable form of schizophrenia.”",
+        "author": "E.L. Doctorow",
+        "genre": "writing"
+    },
+    {
+        "quote": "“There is no real ending. It’s just the place where you stop the story.”",
+        "author": "Frank Herbert",
+        "genre": "writing"
+    },
+    {
+        "quote": "“Start writing, no matter what. The water does not flow until the faucet is turned on.”",
+        "author": "Louis L'Amour",
+        "genre": "writing"
+    },
+    {
+        "quote": "“After nourishment, shelter and companionship, stories are the thing we need most in the world.”",
+        "author": "Philip Pullman",
+        "genre": "writing"
+    },
+    {
+        "quote": "“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”",
+        "author": "Frank Herbert,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Attitude is a choice. Happiness is a choice. Optimism is a choice. Kindness is a choice. Giving is a choice. Respect is a choice. Whatever choice you make makes you. Choose wisely.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Live the Life of Your Dreams: Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.”",
+        "author": "Roy T. Bennett",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“The truth is, unless you let go, unless you forgive yourself, unless you forgive the situation, unless you realize that the situation is over, you cannot move forward.”",
+        "author": "Steve Maraboli,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Do what is right, not what is easy nor what is popular.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Dare to Be",
+        "author": "Steve Maraboli,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Pursue what catches your heart, not what catches your eyes.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Start each day with a positive thought and a grateful heart.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Be grateful for what you already have while you pursue your goals.",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Be brave to stand for what you believe in even if you stand alone.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.”",
+        "author": "Viktor E. Frankl,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.”",
+        "author": "Steve Maraboli",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Never lose hope. Storms make people stronger and never last forever.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Do not fear failure but rather fear not trying.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Lack of direction, not lack of time, is the problem. We all have twenty-four hour days.”",
+        "author": "Zig Ziglar",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.”",
+        "author": "Steve Maraboli",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“You never change your life until you step out of your comfort zone; change begins at the end of your comfort zone.”",
+        "author": "Roy T. Bennett",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Do not let the memories of your past limit the potential of your future. There are no limits to what you can achieve on your journey through life, except in your mind.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Let the improvement of yourself keep you so busy that you have no time to criticize others.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.”",
+        "author": "Steve Maraboli,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Believe in your infinite potential. Your only limitations are those you set upon yourself.”",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Happiness is not the absence of problems, it's the ability to deal with them.”",
+        "author": "Steve Maraboli,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“The man who moves a mountain begins by carrying away small stones.”",
+        "author": "Confucius,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“The only way of discovering the limits of the possible is to venture a little way past them into the impossible.”",
+        "author": "Arthur C. Clarke",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Surround Yourself with People Who Believe in Your Dreams:",
+        "author": "Roy T. Bennett,",
+        "genre": "motivational"
+    },
+    {
+        "quote": "“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”",
+        "author": "Garrison Keillor",
+        "genre": "religion"
+    },
+    {
+        "quote": "“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”",
+        "author": "C.S. Lewis",
+        "genre": "religion"
+    },
+    {
+        "quote": "“The Christian does not think God will love us because we are good, but that God will make us good because He loves us.”",
+        "author": "C.S. Lewis",
+        "genre": "religion"
+    },
+    {
+        "quote": "“For those who believe in God, most of the big questions are answered. But for those of us who can't readily accept the God formula, the big answers don't remain stone-written. We adjust to new conditions and discoveries. We are pliable. Love need not be a command nor faith a dictum. I am my own god. We are here to unlearn the teachings of the church, state, and our educational system. We are here to drink beer. We are here to kill war. We are here to laugh at the odds and live our lives so well that Death will tremble to take us.”",
+        "author": "Charles Bukowski",
+        "genre": "religion"
+    },
+    {
+        "quote": "“The mind is its own place, and in itself can make a heaven of hell, a hell of heaven..”",
+        "author": "John Milton,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“When his life was ruined, his family killed, his farm destroyed, Job knelt down on the ground and yelled up to the heavens, \"Why god? Why me?\" and the thundering voice of God answered, There's just something about you that pisses me off.”",
+        "author": "Stephen King,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Religion has actually convinced people that there's an invisible man living in the sky who watches everything you do, every minute of every day. And the invisible man has a special list of ten things he does not want you to do. And if you do any of these ten things, he has a special place, full of fire and smoke and burning and torture and anguish, where he will send you to live and suffer and burn and choke and scream and cry forever and ever 'til the end of time!",
+        "author": "George Carlin",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Prayer is not asking. It is a longing of the soul. It is daily admission of one's weakness. It is better in prayer to have a heart without words than words without a heart.”",
+        "author": "Mahatma Gandhi",
+        "genre": "religion"
+    },
+    {
+        "quote": "“God has no religion.”",
+        "author": "Mahatma Gandhi",
+        "genre": "religion"
+    },
+    {
+        "quote": "“In heaven, all the interesting people are missing.”",
+        "author": "Friedrich Nietzsche",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Hate the sin, love the sinner.”",
+        "author": "Mahatma Gandhi",
+        "genre": "religion"
+    },
+    {
+        "quote": "“A man can no more diminish God's glory by refusing to worship Him than a lunatic can put out the sun by scribbling the word 'darkness' on the walls of his cell.”",
+        "author": "C.S. Lewis,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Knock, And He'll open the door",
+        "author": "Jalal Ad-Din Rumi",
+        "genre": "religion"
+    },
+    {
+        "quote": "“I cannot believe in a God who wants to be praised all the time.”",
+        "author": "Friedrich Nietzsche",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Science and religion are not at odds. Science is simply too young to understand.”",
+        "author": "Dan Brown,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“A truth that's told with bad intent",
+        "author": "William Blake,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Isn't it enough to see that a garden is beautiful without having to believe that there are fairies at the bottom of it too?”",
+        "author": "Douglas Adams,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Atheism turns out to be too simple. If the whole universe has no meaning, we should never have found out that it has no meaning...”",
+        "author": "C.S. Lewis",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Owners of dogs will have noticed that, if you provide them with food and water and shelter and affection, they will think you are god. Whereas owners of cats are compelled to realize that, if you provide them with food and water and shelter and affection, they draw the conclusion that",
+        "author": "Christopher Hitchens,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Forgive, O Lord, my little jokes on Thee",
+        "author": "Robert Frost",
+        "genre": "religion"
+    },
+    {
+        "quote": "“My concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.”",
+        "author": "Abraham Lincoln",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Sometimes the Bible in the hand of one man is worse than a whisky bottle in the hand of (another)... There are just some kind of men who - who're so busy worrying about the next world they've never learned to live in this one, and you can look down the street and see the results.”",
+        "author": "Harper Lee,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“No sight so sad as that of a naughty child,\" he began, \"especially a naughty little girl. Do you know where the wicked go after death?\"",
+        "author": "Charlotte Brontë,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Those who can make you believe absurdities, can make you commit atrocities.”",
+        "author": "Voltaire",
+        "genre": "religion"
+    },
+    {
+        "quote": "“All I have seen teaches me to trust the Creator for all I have not seen.”",
+        "author": "Ralph Waldo Emerson",
+        "genre": "religion"
+    },
+    {
+        "quote": "“He died not for men, but for each man. If each man had been the only man made, He would have done no less.”",
+        "author": "C.S. Lewis",
+        "genre": "religion"
+    },
+    {
+        "quote": "“I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong.”",
+        "author": "John Lennon",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Heard melodies are sweet, but those unheard, are sweeter”",
+        "author": "John Keats,",
+        "genre": "religion"
+    },
+    {
+        "quote": "“Is man merely a mistake of God's? Or God merely a mistake of man?”",
+        "author": "Friedrich Nietzsche",
+        "genre": "religion"
+    },
+    {
+        "quote": "“When I do good, I feel good. When I do bad, I feel bad. That's my religion.”",
+        "author": "Abraham Lincoln",
+        "genre": "religion"
+    },
+    {
+        "quote": "“When someone loves you, the way they talk about you is different. You feel safe and comfortable.”",
+        "author": "Jess C. Scott,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“I no longer believed in the idea of soul mates, or love at first sight. But I was beginning to believe that a very few times in your life, if you were lucky, you might meet someone who was exactly right for you. Not because he was perfect, or because you were, but because your combined flaws were arranged in a way that allowed two separate beings to hinge together.”",
+        "author": "Lisa Kleypas,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“Indifference and neglect often do much more damage than outright dislike.”",
+        "author": "J.K. Rowling,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“I think you still love me, but we can’t escape the fact that I’m not enough for you. I knew this was going to happen. So I’m not blaming you for falling in love with another woman. I’m not angry, either. I should be, but I’m not. I just feel pain. A lot of pain. I thought I could imagine how much this would hurt, but I was wrong.”",
+        "author": "Haruki Murakami,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.”",
+        "author": "Carl Gustav Jung",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“A guy and a girl can be just friends, but at one point or another, they will fall for each other...Maybe temporarily, maybe at the wrong time, maybe too late, or maybe forever”",
+        "author": "Dave Matthews Band",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“You can talk with someone for years, everyday, and still, it won't mean as much as what you can have when you sit in front of someone, not saying a word, yet you feel that person with your heart, you feel like you have known the person for forever.... connections are made with the heart, not the tongue.”",
+        "author": "C. JoyBell C.",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“For the two of us, home isn't a place. It is a person. And we are finally home.”",
+        "author": "Stephanie Perkins,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“Man may have discovered fire, but women discovered how to play with it.”",
+        "author": "Candace Bushnell,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“It hurts to let go. Sometimes it seems the harder you try to hold on to something or someone the more it wants to get away. You feel like some kind of criminal for having felt, for having wanted. For having wanted to be wanted. It confuses you, because you think that your feelings were wrong and it makes you feel so small because it's so hard to keep it inside when you let it out and it doesn't coma back. You're left so alone that you can't explain. Damn, there's nothing like that, is there? I've been there and you have too. You're nodding your head.”",
+        "author": "Henry Rollins,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“We’re all seeking that special person who is right for us. But if you’ve been through enough relationships, you begin to suspect there’s no right person, just different flavors of wrong. Why is this? Because you yourself are wrong in some way, and you seek out partners who are wrong in some complementary way. But it takes a lot of living to grow fully into your own wrongness. And it isn’t until you finally run up against your deepest demons, your unsolvable problems—the ones that make you truly who you are—that we’re ready to find a lifelong mate. Only then do you finally know what you’re looking for. You’re looking for the wrong person. But not just any wrong person: it's got to be the right wrong person—someone you lovingly gaze upon and think, “This is the problem I want to have.”",
+        "author": "Andrew  Boyd,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“The most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too.”",
+        "author": "Ernest Hemingway,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“Well, it seems to me that the best relationships - the ones that last - are frequently the ones that are rooted in friendship. You know, one day you look at the person and you see something more than you did the night before. Like a switch has been flicked somewhere. And the person who was just a friend is... suddenly the only person you can ever imagine yourself with.”",
+        "author": "Gillian Anderson",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“Why is it,\" he said, one time, at the subway entrance, \"I feel I've known you so many years?\"",
+        "author": "Ray Bradbury,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“I mean, if the relationship can't survive the long term, why on earth would it be worth my time and energy for the short term?”",
+        "author": "Nicholas Sparks,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“When you stop expecting people to be perfect, you can like them for who they are.”",
+        "author": "Donald Miller,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“Every man I meet wants to protect me. I can't figure out what from.”",
+        "author": "Mae West",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“There is greatness in doing something you hate for the sake of someone you love.”",
+        "author": "Shmuley Boteach",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“If conversation was the lyrics, laughter was the music, making time spent together a melody that could be replayed over and over without getting stale.”",
+        "author": "Nicholas Sparks",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“I know I am but summer to your heart, and not the full four seasons of the year.”",
+        "author": "Edna St. Vincent Millay",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“Come sleep with me: We won't make Love, Love will make us.”",
+        "author": "Julio Cortázar",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“It's no good pretending that any relationship has a future if your record collections disagree violently or if your favorite films wouldn't even speak to each other if they met at a party.”",
+        "author": "Nick Hornby",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“Therefore, dear Sir, love your solitude and try to sing out with the pain it causes you. For those who are near you are far away... and this shows that the space around you is beginning to grow vast.... be happy about your growth, in which of course you can't take anyone with you, and be gentle with those who stay behind; be confident and calm in front of them and don't torment them with your doubts and don't frighten them with your faith or joy, which they wouldn't be able to comprehend. Seek out some simple and true feeling of what you have in common with them, which doesn't necessarily have to alter when you yourself change again and again; when you see them, love life in a form that is not your own and be indulgent toward those who are growing old, who are afraid of the aloneness that you trust.... and don't expect any understanding; but believe in a love that is being stored up for you like an inheritance, and have faith that in this love there is a strength and a blessing so large that you can travel as far as you wish without having to step outside it.”",
+        "author": "Rainer Maria Rilke,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“I will love you always. When this red hair is white, I will still love you. When the smooth softness of youth is replaced by the delicate softness of age, I will still want to touch your skin. When your face is full of the lines of every smile you have ever smiled, of every surprise I have seen flash through your eyes, when every tear you have ever cried has left its mark upon your face,I will treasure you all the more, because I was there to see it all. I will share your life with you, Meredith, and I will love you until the last breath leaves your body or mine.”",
+        "author": "Laurell K. Hamilton,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“Holding Eleanor's hand was like holding a butterfly. Or a heartbeat. Like holding something complete, and completely alive.”",
+        "author": "Rainbow Rowell,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“When we're incomplete, we're always searching for somebody to complete us. When, after a few years or a few months of a relationship, we find that we're still unfulfilled, we blame our partners and take up with somebody more promising. This can go on and on--series polygamy--until we admit that while a partner can add sweet dimensions to our lives, we, each of us, are responsible for our own fulfillment. Nobody else can provide it for us, and to believe otherwise is to delude ourselves dangerously and to program for eventual failure every relationship we enter.”",
+        "author": "Tom Robbins",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“To be fully seen by somebody, then, and be loved anyhow - this is a human offering that can border on miraculous.”",
+        "author": "Elizabeth Gilbert,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“Maybe our girlfriends are our soulmates and guys are just people to have fun with.”",
+        "author": "Candace Bushnell,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“I’ve been fighting to be who I am all my life. What’s the point of being who I am, if I can’t have the person who was worth all the fighting for?”",
+        "author": "Stephanie Lennox,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“I want to be in a relationship where you telling me you love me is just a ceremonious validation of what you already show me.”",
+        "author": "Steve Maraboli,",
+        "genre": "relationships"
+    },
+    {
+        "quote": "“More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.”",
+        "author": "Roy T. Bennett,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“The most wasted of all days is one without laughter.”",
+        "author": "Nicolas Chamfort",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“For me, trees have always been the most penetrating preachers. I revere them when they live in tribes and families, in forests and groves. And even more I revere them when they stand alone. They are like lonely persons. Not like hermits who have stolen away out of some weakness, but like great, solitary men, like Beethoven and Nietzsche. In their highest boughs the world rustles, their roots rest in infinity; but they do not lose themselves there, they struggle with all the force of their lives for one thing only: to fulfil themselves according to their own laws, to build up their own form, to represent themselves. Nothing is holier, nothing is more exemplary than a beautiful, strong tree. When a tree is cut down and reveals its naked death-wound to the sun, one can read its whole history in the luminous, inscribed disk of its trunk: in the rings of its years, its scars, all the struggle, all the suffering, all the sickness, all the happiness and prosperity stand truly written, the narrow years and the luxurious years, the attacks withstood, the storms endured. And every young farmboy knows that the hardest and noblest wood has the narrowest rings, that high on the mountains and in continuing danger the most indestructible, the strongest, the ideal trees grow.",
+        "author": "Herman Hesse,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Knock, And He'll open the door",
+        "author": "Jalal Ad-Din Rumi",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Make your own Bible. Select and collect all the words and sentences that in all your readings have been to you like the blast of a trumpet.”",
+        "author": "Ralph Waldo Emerson",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“1. Be Impeccable With Your Word",
+        "author": "Don Miguel Ruiz",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“I believe in God, but not as one thing, not as an old man in the sky. I believe that what people call God is something in all of us. I believe that what Jesus and Mohammed and Buddha and all the rest said was right. It's just that the translations have gone wrong.”",
+        "author": "John Lennon",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Science is not only compatible with spirituality; it is a profound source of spirituality.”",
+        "author": "Carl Sagan,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Believe in your infinite potential. Your only limitations are those you set upon yourself.”",
+        "author": "Roy T. Bennett,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.”",
+        "author": "Anais Nin",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“You can safely assume you've created God in your own image when it turns out that God hates all the same people you do.”",
+        "author": "Anne Lamott",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“No woman wants to be in submission to a man who isn't in submission to God!”",
+        "author": "T D Jakes",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“The greatest disease in the West today is not TB or leprosy; it is being unwanted, unloved, and uncared for. We can cure physical diseases with medicine, but the only cure for loneliness, despair, and hopelessness is love. There are many in the world who are dying for a piece of bread but there are many more dying for a little love. The poverty in the West is a different kind of poverty -- it is not only a poverty of loneliness but also of spirituality. There's a hunger for love, as there is a hunger for God.”",
+        "author": "Mother Teresa,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Forgive the past. It is over. Learn from it and let go. People are constantly changing and growing. Do not cling to a limited, disconnected, negative image of a person in the past. See that person now. Your relationship is always alive and changing.”",
+        "author": "Brian Weiss,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Have you ever lost yourself in a kiss? I mean pure psychedelic inebriation. Not just lustful petting but transcendental metamorphosis when you became aware that the greatness of this being was breathing into you. Licking the sides and corners of your mouth, like sealing a thousand fleshy envelopes filled with the essence of your passionate being and then opened by the same mouth and delivered back to you, over and over again - the first kiss of the rest of your life. A kiss that confirms that the universe is aligned, that the world's greatest resource is love, and maybe even that God is a woman. With or without a belief in God, all kisses are metaphors decipherable by allocations of time, circumstance, and understanding”",
+        "author": "Saul Williams,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Lord, make me an instrument of thy peace.",
+        "author": "St. Francis of Assisi",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Dare to love yourself",
+        "author": "Author-Poet Aberjhani,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“It does not matter how long you are spending on the earth, how much money you have gathered or how much attention you have received. It is the amount of positive vibration you have radiated in life that matters,”",
+        "author": "Amit Ray,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“A single day is enough to make us a little larger or, another time, a little smaller.”",
+        "author": "Paul Klee",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“We are not human beings having a spiritual experience. We are spiritual beings having a human experience.”",
+        "author": "Pierre Teilhard de Chardin",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically.”",
+        "author": "Neil DeGrasse Tyson",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“What you are is God's gift to you, what you become is your gift to God.”",
+        "author": "Hans Urs von Balthasar,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“How hurtful it can be to deny one's true self and live a life of lies just to appease others.”",
+        "author": "June Ahern",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Science is not only compatible with spirituality; it is a profound source of spirituality. When we recognize our place in an immensity of light‐years and in the passage of ages, when we grasp the intricacy, beauty, and subtlety of life, then that soaring feeling, that sense of elation and humility combined, is surely spiritual. So are our emotions in the presence of great art or music or literature, or acts of exemplary selfless courage such as those of Mohandas Gandhi or Martin Luther King, Jr. The notion that science and spirituality are somehow mutually exclusive does a disservice to both.”",
+        "author": "Carl Sagan,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“It takes three to make love, not two: you, your spouse, and God. Without God people only succeed in bringing out the worst in one another. Lovers who have nothing else to do but love each other soon find there is nothing else. Without a central loyalty life is unfinished.”",
+        "author": "Fulton J. Sheen,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“The only time you fail is when you fall down and stay down.”",
+        "author": "Stephen Richards,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“One thing: you have to walk, and create the way by your walking; you will not find a ready-made path. It is not so cheap, to reach to the ultimate realization of truth. You will have to create the path by walking yourself; the path is not ready-made, lying there and waiting for you. It is just like the sky: the birds fly, but they don't leave any footprints. You cannot follow them; there are no footprints left behind.”",
+        "author": "Osho",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“One of the most spiritual things you can do is embrace your humanity. Connect with those around you today. Say, \"I love you\", \"I'm sorry\", \"I appreciate you\", \"I'm proud of you\"...whatever you're feeling. Send random texts, write a cute note, embrace your truth and share it...cause a smile today for someone else...and give plenty of hugs.”",
+        "author": "Steve Maraboli",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“A quiet conscience makes one strong!”",
+        "author": "Anne Frank,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“I have lived with several Zen masters -- all of them cats.”",
+        "author": "Eckhart Tolle,",
+        "genre": "spirituality"
+    },
+    {
+        "quote": "“Success is not final, failure is not fatal: it is the courage to continue that counts.”",
+        "author": "Winston S. Churchill",
+        "genre": "success"
+    },
+    {
+        "quote": "“He has achieved success who has lived well, laughed often, and loved much;",
+        "author": "Bessie Anderson Stanley,",
+        "genre": "success"
+    },
+    {
+        "quote": "“I can't give you a sure-fire formula for success, but I can give you a formula for failure: try to please everybody all the time.”",
+        "author": "Herbert Bayard Swope",
+        "genre": "success"
+    },
+    {
+        "quote": "“If at first you don't succeed, try, try again. Then quit. No use being a damn fool about it.”",
+        "author": "W.C. Fields",
+        "genre": "success"
+    },
+    {
+        "quote": "“Try not to become a man of success. Rather become a man of value.”",
+        "author": "Albert Einstein",
+        "genre": "success"
+    },
+    {
+        "quote": "“It is better to fail in originality than to succeed in imitation.”",
+        "author": "Herman Melville",
+        "genre": "success"
+    },
+    {
+        "quote": "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+        "author": "Roy T. Bennett,",
+        "genre": "success"
+    },
+    {
+        "quote": "“Dare to Be",
+        "author": "Steve Maraboli,",
+        "genre": "success"
+    },
+    {
+        "quote": "“So be sure when you step, Step with care and great tact. And remember that life's A Great Balancing Act. And will you succeed? Yes! You will, indeed! (98 and ¾ percent guaranteed) Kid, you'll move mountains.”",
+        "author": "Dr. Seuss,",
+        "genre": "success"
+    },
+    {
+        "quote": "“Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.”",
+        "author": "Steve Maraboli",
+        "genre": "success"
+    },
+    {
+        "quote": "“Success is getting what you want, happiness is wanting what you get”",
+        "author": "W. P. Kinsella",
+        "genre": "success"
+    },
+    {
+        "quote": "“Failure is the condiment that gives success its flavor.”",
+        "author": "Truman Capote",
+        "genre": "success"
+    },
+    {
+        "quote": "“Have no fear of perfection - you'll never reach it.”",
+        "author": "Salvador Dali",
+        "genre": "success"
+    },
+    {
+        "quote": "“Anyone whose goal is 'something higher' must expect someday to suffer vertigo. What is vertigo? Fear of falling? No, Vertigo is something other than fear of falling. It is the voice of the emptiness below us which tempts and lures us, it is the desire to fall, against which, terrified, we defend ourselves.”",
+        "author": "Milan Kundera,",
+        "genre": "success"
+    },
+    {
+        "quote": "“Success is stumbling from failure to failure with no loss of enthusiasm.”",
+        "author": "Winston S. Churchill",
+        "genre": "success"
+    },
+    {
+        "quote": "“The worst part of success is trying to find someone who is happy for you.”",
+        "author": "Bette Midler",
+        "genre": "success"
+    },
+    {
+        "quote": "“Don't spend time beating on a wall, hoping to transform it into a door. ”",
+        "author": "Coco Chanel",
+        "genre": "success"
+    },
+    {
+        "quote": "“Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness.”",
+        "author": "Steve Maraboli",
+        "genre": "success"
+    },
+    {
+        "quote": "“If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut”",
+        "author": "Albert Einstein",
+        "genre": "success"
+    },
+    {
+        "quote": "“I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down.”",
+        "author": "Abraham Lincoln",
+        "genre": "success"
+    },
+    {
+        "quote": "“Let the improvement of yourself keep you so busy that you have no time to criticize others.”",
+        "author": "Roy T. Bennett,",
+        "genre": "success"
+    },
+    {
+        "quote": "“The way to get started is to quit talking and begin doing. ”",
+        "author": "Walt Disney",
+        "genre": "success"
+    },
+    {
+        "quote": "“Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say!—success will follow you precisely because you had forgotten to think about it”",
+        "author": "Viktor E. Frankl,",
+        "genre": "success"
+    },
+    {
+        "quote": "“Sometimes it takes a good fall to really know where you stand”",
+        "author": "Hayley Williams",
+        "genre": "success"
+    },
+    {
+        "quote": "“All you need in this life is ignorance and confidence; then success is sure. ”",
+        "author": "Mark Twain",
+        "genre": "success"
+    },
+    {
+        "quote": "“Our greatest glory is not in never falling, but in rising every time we fall.”",
+        "author": "Oliver Goldsmith,",
+        "genre": "success"
+    },
+    {
+        "quote": "“No matter how old you are now. You are never too young or too old for success or going after what you want. Here’s a short list of people who accomplished great things at different ages",
+        "author": "Pablo",
+        "genre": "success"
+    },
+    {
+        "quote": "“It is hard to fail, but it is worse never to have tried to succeed.”",
+        "author": "Theodore Roosevelt",
+        "genre": "success"
+    },
+    {
+        "quote": "“Sometimes life knocks you on your ass... get up, get up, get up!!! Happiness is not the absence of problems, it's the ability to deal with them.”",
+        "author": "Steve Maraboli,",
+        "genre": "success"
+    },
+    {
+        "quote": "“How would your life be different if…You stopped making negative judgmental assumptions about people you encounter? Let today be the day…You look for the good in everyone you meet and respect their journey.”",
+        "author": "Steve Maraboli,",
+        "genre": "success"
+    },
+    {
+        "quote": "“I love you as certain dark things are loved, secretly, between the shadow and the soul.”",
+        "author": "Pablo Neruda,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“It is an absolute human certainty that no one can know his own beauty or perceive a sense of his own worth until it has been reflected back to him in the mirror of another loving, caring human being.”",
+        "author": "John Joseph Powell,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“If I have learned anything in this long life of mine, it is this: in love we find out who we want to be; in war we find out who we are.”",
+        "author": "Kristin Hannah,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“your hand",
+        "author": "Sanober Khan",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“I choose to love you in silence…",
+        "author": "Rumi",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“Your memory feels like home to me.",
+        "author": "Ranata Suzuki",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“…the sad part is, that I will probably end up loving you without you for much longer than I loved you when I knew you.",
+        "author": "Ranata Suzuki",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“the saddest thing is to be",
+        "author": "Sanober Khan",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“You fell in love with a storm. Did you really think you would get out unscathed?”",
+        "author": "Nikita Gill",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“My heart made it's choice, and it chose you.”",
+        "author": "Colleen Hoover,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“There is an ocean of silence between us… and I am drowning in it.”",
+        "author": "Ranata Suzuki",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“I wish I knew how to quit you.”",
+        "author": "Annie Proulx,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“I meant it when I said I didn’t believe in love at first sight. It takes time to really, truly fall for someone. Yet I believe in a moment. A moment when you glimpse the truth within someone, and they glimpse the truth within you. In that moment, you don’t belong to yourself any longer, not completely. Part of you belongs to him; part of him belongs to you. After that, you can’t take it back, no matter how much you want to, no matter how hard you try.”",
+        "author": "Claudia Gray,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“Get up, Shahrzad al-Khayzuran. You kneel before no one. Least of all me.”",
+        "author": "Renee Ahdieh,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“That’s what it feels like when you touch me. Like millions of tiny universes being born and then dying in the space between your finger and my skin. Sometimes I forget.”",
+        "author": "Iain Thomas,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“Have you ever been in love? Horrible, isn't it? It makes you so vulnerable. It opens your chest and it opens up your heart and it means that someone can get inside you and mess you up. You build up all these defenses. You build up this whole armor, for years, so nothing can hurt you, then one stupid person, no different from any other stupid person, wanders into your stupid life… You give them a piece of you. They don't ask for it. They do something dumb one day like kiss you, or smile at you, and then your life isn't your own anymore. Love takes hostages. It gets inside you. It eats you out and leaves you crying in the darkness, so a simple phrase like \"maybe we should just be friends\" or \"how very perceptive\" turns into a glass splinter working its way into your heart. It hurts. Not just in the imagination. Not just in the mind. It's a soul-hurt, a body-hurt, a real gets-inside-you-and-rips-you-apart pain. Nothing should be able to do that. Especially not love. I hate love.”",
+        "author": "Neil Gaiman,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“You are damaged and broken and unhinged. But so are shooting stars and comets.”",
+        "author": "Nikita Gill",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“a flower knows, when its butterfly will return,",
+        "author": "Sanober Khan",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“i want to be",
+        "author": "Sanober Khan",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“If you cannot hold me in your arms, then hold my memory in high regard.",
+        "author": "Ranata Suzuki",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“Nothing is more tragic than loving someone to the depths of your soul and knowing they cannot and will not ever love you back.”",
+        "author": "Rick Riordan,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“I love my parents' murderer; I suppose I could love anyone.”",
+        "author": "Holly Black,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“If you’re searching for a quote that puts your feelings into words – you won’t find it.",
+        "author": "Ranata Suzuki",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“When you experience loss, people say you’ll move through the 5 stages of grief….",
+        "author": "Ranata Suzuki",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“I think perhaps I will always hold a candle for you – even until it burns my hand.",
+        "author": "Ranata Suzuki",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“To fall in love with someone's thoughts - the most intimate, splendid romance.”",
+        "author": "Sanober Khan",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“I had someone once who made every day mean something.",
+        "author": "Ranata Suzuki",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“Not only did",
+        "author": "Christopher Poindexter",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“I miss that feeling of connection.",
+        "author": "Ranata Suzuki",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“My love is meatloaf flavored. I just wish my meatloaf was also meatloaf flavored.”",
+        "author": "Dora J. Arod,",
+        "genre": "love-quotes"
+    },
+    {
+        "quote": "“Don't be pushed around by the fears in your mind. Be led by the dreams in your heart.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Instead of worrying about what you cannot control, shift your energy to what you can create.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Be mindful. Be grateful. Be positive. Be true. Be kind.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Accept yourself, love yourself, and keep moving forward. If you want to fly, you have to give up what weighs you down.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Live the Life of Your Dreams: Be brave enough to live the life of your dreams according to your vision and purpose instead of the expectations and opinions of others.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Don’t waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.”",
+        "author": "Roy T. Bennett",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Don't let the expectations and opinions of other people affect your decisions. It's your life, not theirs. Do what matters most to you; do what makes you feel alive and happy. Don't let the expectations and ideas of others limit who you are. If you let others tell you who you are, you are living their reality — not yours. There is more to life than pleasing people. There is much more to life than following others' prescribed path. There is so much more to life than what you experience right now. You need to decide who you are for yourself. Become a whole being. Adventure.”",
+        "author": "Roy T. Bennett",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Don't Just",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“It’s only after you’ve stepped outside your comfort zone that you begin to change, grow, and transform.”",
+        "author": "Roy T. Bennett",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Even if you cannot change all the people around you, you can change the people you choose to be around. Life is too short to waste your time on people who don’t respect, appreciate, and value you. Spend your life with people who make you smile, laugh, and feel loved.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“You cannot control the behavior of others, but you can always choose how you respond to it.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“More smiling, less worrying. More compassion, less judgment. More blessed, less stressed. More love, less hate.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Life becomes easier and more beautiful when we can see the good in other people.”",
+        "author": "Roy T. Bennett",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Success is not how high you have climbed, but how you make a positive difference to the world.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Keep Going",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Pursue what catches your heart, not what catches your eyes.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Learn to light a candle in the darkest moments of someone’s life. Be the light that helps others see; it is what gives life its deepest significance.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Make improvements, not excuses. Seek respect, not attention.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Treat everyone with politeness and kindness, not because they are nice, but because you are.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Start each day with a positive thought and a grateful heart.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Believe in Your Heart",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Be grateful for what you already have while you pursue your goals.",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Follow your heart, listen to your inner voice, stop caring about what others think.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“No amount of regretting can change the past, and no amount of worrying can change the future.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Acts of Kindness:",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey.”",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Top 15 Things Money Can’t Buy",
+        "author": "Roy T. Bennett,",
+        "genre": "life-quotes"
+    },
+    {
+        "quote": "“Time you enjoy wasting is not wasted time.”",
+        "author": "Marthe Troly-Curtin,",
+        "genre": "time"
+    },
+    {
+        "quote": "“I wish it need not have happened in my time,\" said Frodo.",
+        "author": "J.R.R. Tolkien,",
+        "genre": "time"
+    },
+    {
+        "quote": "“There comes a time when the world gets quiet and the only thing left is your own heart. So you'd better learn the sound of it. Otherwise you'll never understand what it's saying.”",
+        "author": "Sarah Dessen,",
+        "genre": "time"
+    },
+    {
+        "quote": "“Time flies like an arrow; fruit flies like a banana.”",
+        "author": "Anthony G. Oettinger",
+        "genre": "time"
+    },
+    {
+        "quote": "“Don’t waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.”",
+        "author": "Roy T. Bennett",
+        "genre": "time"
+    },
+    {
+        "quote": "“It has been said, 'time heals all wounds.' I do not agree. The wounds remain. In time, the mind, protecting its sanity, covers them with scar tissue and the pain lessens. But it is never gone.”",
+        "author": "Rose Fitzgerald Kennedy",
+        "genre": "time"
+    },
+    {
+        "quote": "“It is the time you have wasted for your rose that makes your rose so important.”",
+        "author": "Antoine de Saint-Exupéry,",
+        "genre": "time"
+    },
+    {
+        "quote": "“Books have a unique way of stopping time in a particular moment and saying: Let’s not forget this.”",
+        "author": "Dave Eggers",
+        "genre": "time"
+    },
+    {
+        "quote": "“Top 15 Things Money Can’t Buy",
+        "author": "Roy T. Bennett,",
+        "genre": "time"
+    },
+    {
+        "quote": "“How did it get so late so soon?”",
+        "author": "Dr. Seuss",
+        "genre": "time"
+    },
+    {
+        "quote": "“Don't waste your time with explanations: people only hear what they want to hear.”",
+        "author": "Paulo Coelho",
+        "genre": "time"
+    },
+    {
+        "quote": "“Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin.”",
+        "author": "Mother Theresa",
+        "genre": "time"
+    },
+    {
+        "quote": "“For what it’s worth: it’s never too late or, in my case, too early to be whoever you want to be. There’s no time limit, stop whenever you want. You can change or stay the same, there are no rules to this thing. We can make the best or the worst of it. I hope you make the best of it. And I hope you see things that startle you. I hope you feel things you never felt before. I hope you meet people with a different point of view. I hope you live a life you’re proud of. If you find that you’re not, I hope you have the courage to start all over again.”",
+        "author": "Eric Roth,",
+        "genre": "time"
+    },
+    {
+        "quote": "“You can have it all. Just not all at once.”",
+        "author": "Oprah Winfrey",
+        "genre": "time"
+    },
+    {
+        "quote": "“Don't spend time beating on a wall, hoping to transform it into a door. ”",
+        "author": "Coco Chanel",
+        "genre": "time"
+    },
+    {
+        "quote": "“Time doesn’t heal emotional pain, you need to learn how to let go.”",
+        "author": "Roy T. Bennett,",
+        "genre": "time"
+    },
+    {
+        "quote": "“Time is the longest distance between two places.”",
+        "author": "Tennessee Williams,",
+        "genre": "time"
+    },
+    {
+        "quote": "“They say time heals all wounds, but that presumes the source of the grief is finite”",
+        "author": "Cassandra Clare,",
+        "genre": "time"
+    },
+    {
+        "quote": "“They always say time changes things, but you actually have to change them yourself.”",
+        "author": "Andy Warhol,",
+        "genre": "time"
+    },
+    {
+        "quote": "“They say I'm old-fashioned, and live in the past, but sometimes I think progress progresses too fast!”",
+        "author": "Dr. Seuss",
+        "genre": "time"
+    },
+    {
+        "quote": "“A man who dares to waste one hour of time has not discovered the value of life.”",
+        "author": "Charles Darwin,",
+        "genre": "time"
+    },
+    {
+        "quote": "“I sit beside the fire and think",
+        "author": "J.R.R. Tolkien",
+        "genre": "time"
+    },
+    {
+        "quote": "“This is a new year. A new beginning. And things will change.”",
+        "author": "Taylor Swift",
+        "genre": "time"
+    },
+    {
+        "quote": "“Scars have the strange power to remind us that our past is real.”",
+        "author": "Cormac McCarthy,",
+        "genre": "time"
+    },
+    {
+        "quote": "“Unfortunately, the clock is ticking, the hours are going by. The past increases, the future recedes. Possibilities decreasing, regrets mounting.”",
+        "author": "Haruki Murakami,",
+        "genre": "time"
+    },
+    {
+        "quote": "“Here we are, trapped in the amber of the moment. There is no why.”",
+        "author": "Kurt Vonnegut",
+        "genre": "time"
+    },
+    {
+        "quote": "“Time is a created thing. To say 'I don't have time,' is like saying, 'I don't want to.”",
+        "author": "Lao Tzu",
+        "genre": "time"
+    },
+    {
+        "quote": "“It's hard being left behind. (...) It's hard to be the one who stays.”",
+        "author": "Audrey Niffenegger,",
+        "genre": "time"
+    },
+    {
+        "quote": "“Time is an illusion.”",
+        "author": "Albert Einstein",
+        "genre": "time"
+    },
+    {
+        "quote": "“It's being here now that's important. There's no past and there's no future. Time is a very misleading thing. All there is ever, is the now. We can gain experience from the past, but we can't relive it; and we can hope for the future, but we don't know if there is one.”",
+        "author": "George Harrison",
+        "genre": "time"
+    }
+]

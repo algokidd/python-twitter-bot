@@ -1,0 +1,2 @@
+TAGS =["knowledge","philosophy","wisdom","life","love","inspirational","humor","god","truth","romance","death","happiness","hope","faith","quotes","life-lessons","writing","motivational","religion","relationships","spirituality","success","love-quotes","life-quotes","time"]
+UNSPLASH_QUERIES = TAGS + ["history","architecture","art"]
