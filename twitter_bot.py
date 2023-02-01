@@ -34,14 +34,14 @@ def _post_image():
     
 def run():
     #count = 0
-    while True:
+    #while True:
         # if count >=5:
         #     break        
         _write_tweet()
         _time.sleep(20)        
         _post_image()
         # count+=1
-        _time.sleep(86390)
+        #_time.sleep(86390)
         
 if __name__ == "__main__":
     run()
